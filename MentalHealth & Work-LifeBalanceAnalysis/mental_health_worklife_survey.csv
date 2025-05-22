@@ -1,0 +1,1001 @@
+Employee_ID,Age,Gender,Department,Location,Weekly_Hours_Worked,Remote_Work,Burnout_Level,Stress_Level,Productivity_Score,Company_MH_Support,Job_Satisfaction,Sought_Therapy,Mental_Health_Days_Missed,Open_To_MH_Resources
+1,59,Female,Customer Support,UK,40,0,High,Low,4.6,1,Medium,0,1,1
+2,49,Non-binary,Marketing,India,64,0,Medium,Low,8.8,1,High,0,3,1
+3,35,Male,Finance,USA,37,1,Low,Medium,6.7,1,Low,1,2,0
+4,28,Prefer not to say,HR,Canada,32,1,Low,Low,5.3,0,High,0,1,0
+5,41,Non-binary,Sales,USA,43,0,Medium,Low,8.4,0,Medium,0,1,0
+6,59,Non-binary,HR,Germany,42,1,Low,Medium,6.2,1,Low,0,6,1
+7,39,Prefer not to say,Marketing,Germany,74,0,Medium,Low,8.9,1,Medium,0,1,1
+8,43,Non-binary,Sales,Australia,61,1,Low,Low,9.0,0,High,0,2,0
+9,31,Non-binary,Operations,India,63,1,Low,Medium,4.1,1,High,1,1,0
+10,31,Female,IT,India,74,1,Medium,Low,3.0,0,Medium,0,1,1
+11,44,Prefer not to say,Marketing,India,48,0,Medium,Medium,9.4,0,High,0,2,0
+12,56,Male,Marketing,Australia,67,1,Medium,Medium,8.9,0,Low,0,2,1
+13,44,Non-binary,Finance,Germany,45,1,Low,Medium,3.4,0,Low,0,1,1
+14,23,Prefer not to say,HR,USA,31,0,Low,High,8.4,0,Medium,1,2,1
+15,42,Female,Marketing,Australia,69,1,Medium,Medium,6.0,1,Medium,0,1,1
+16,22,Male,Marketing,Australia,46,0,Medium,Medium,4.7,1,High,1,3,1
+17,44,Prefer not to say,Operations,USA,63,0,Medium,Medium,8.7,1,Medium,1,3,1
+18,50,Male,Operations,India,71,0,Medium,High,4.3,0,Low,1,3,1
+19,58,Male,Sales,Canada,45,0,High,High,9.2,0,Medium,0,3,1
+20,22,Male,Customer Support,USA,67,0,Medium,High,4.3,0,Low,0,4,0
+21,41,Non-binary,Customer Support,Germany,31,1,Medium,Medium,7.0,0,Low,0,3,0
+22,53,Non-binary,IT,UK,31,0,Medium,Low,4.5,1,Medium,0,0,0
+23,32,Female,Customer Support,UK,55,0,Medium,Low,6.5,1,Medium,1,0,1
+24,42,Female,Finance,Australia,42,0,Medium,Low,7.4,0,Medium,1,2,1
+25,45,Prefer not to say,IT,UK,76,0,Medium,High,4.2,0,Medium,1,3,1
+26,47,Female,Sales,Canada,60,1,High,Medium,6.4,0,Low,1,1,1
+27,48,Male,Operations,India,63,0,Low,High,6.0,0,Low,0,2,1
+28,36,Male,Customer Support,Germany,68,1,Low,Medium,3.5,1,Medium,0,2,0
+29,35,Non-binary,HR,Canada,32,0,Medium,High,8.3,0,Low,0,3,1
+30,23,Male,Operations,Germany,37,1,High,Low,5.2,1,Medium,1,0,0
+31,57,Prefer not to say,Finance,Germany,52,0,Low,Low,6.7,1,Low,1,1,0
+32,27,Male,Operations,India,43,0,High,Medium,6.3,1,Medium,0,1,1
+33,41,Male,Finance,Australia,56,1,Medium,Medium,6.3,1,Low,1,1,1
+34,29,Prefer not to say,Finance,UK,58,0,High,Medium,3.7,1,Low,1,0,1
+35,59,Female,Finance,India,68,1,High,High,5.8,0,Medium,1,2,1
+36,38,Female,Sales,Canada,68,0,Medium,Low,5.9,1,High,1,0,1
+37,24,Prefer not to say,Finance,Australia,30,1,Low,Medium,7.8,1,Low,0,0,1
+38,45,Non-binary,Finance,Canada,46,0,Low,Medium,8.5,0,Medium,0,2,1
+39,34,Male,HR,Australia,70,0,Low,Low,6.5,1,High,0,4,1
+40,29,Prefer not to say,IT,Canada,59,1,High,High,3.6,1,Medium,0,1,1
+41,46,Male,Marketing,India,42,0,Low,High,4.5,1,High,0,3,1
+42,22,Non-binary,IT,Australia,50,0,Medium,High,4.1,0,Low,0,1,1
+43,40,Male,Finance,Australia,48,0,Medium,High,3.8,0,High,1,2,0
+44,48,Prefer not to say,HR,Germany,48,0,High,High,5.4,1,Medium,0,2,1
+45,27,Male,Operations,Germany,54,0,Low,Low,4.5,0,Medium,1,0,1
+46,28,Female,HR,USA,51,0,Low,High,4.4,1,High,0,3,0
+47,55,Non-binary,Finance,Canada,60,1,Low,Medium,3.4,1,Medium,0,2,1
+48,34,Non-binary,HR,Germany,46,1,High,Low,3.1,0,Medium,0,7,0
+49,37,Non-binary,Customer Support,USA,52,1,Medium,Low,3.7,1,High,0,1,1
+50,56,Prefer not to say,HR,Germany,61,0,Low,High,4.1,1,Medium,0,2,0
+51,24,Non-binary,Finance,Canada,39,1,Low,High,5.8,0,Low,0,1,1
+52,22,Female,Sales,Australia,39,0,Low,Low,6.3,1,Medium,0,1,1
+53,26,Prefer not to say,Customer Support,UK,65,0,Low,High,3.9,1,Low,0,1,1
+54,24,Female,HR,Canada,37,0,High,High,5.8,1,High,0,6,1
+55,49,Male,Marketing,India,49,0,High,Low,5.2,1,High,1,0,1
+56,38,Male,Marketing,Germany,61,1,Medium,Low,4.2,1,Medium,0,1,0
+57,46,Male,HR,Germany,79,0,High,High,3.0,1,Medium,0,0,0
+58,54,Male,Sales,Australia,43,1,Low,Low,6.0,1,Low,1,6,1
+59,30,Female,Operations,India,79,0,High,Medium,7.5,1,Low,0,1,1
+60,56,Prefer not to say,Finance,Australia,57,1,High,Low,4.5,1,High,1,2,0
+61,34,Prefer not to say,Marketing,India,75,1,Medium,Medium,3.9,1,Low,1,4,0
+62,51,Non-binary,Operations,UK,53,1,High,High,8.8,0,Medium,1,0,0
+63,35,Female,HR,Germany,44,1,Low,Medium,4.8,1,High,0,2,1
+64,28,Male,Operations,Germany,51,1,Low,High,4.5,1,High,1,2,0
+65,34,Female,Customer Support,UK,59,1,Low,High,8.6,0,Medium,1,1,0
+66,43,Non-binary,IT,USA,33,0,Medium,High,8.3,1,Medium,0,4,1
+67,41,Non-binary,Marketing,Australia,42,1,High,Medium,5.9,0,Medium,0,2,1
+68,36,Female,HR,UK,52,0,High,Low,6.2,0,High,0,2,1
+69,38,Female,Finance,Australia,37,1,Medium,Medium,4.4,1,Medium,1,1,1
+70,44,Female,Sales,Canada,47,0,High,Low,3.5,1,Medium,0,1,1
+71,46,Prefer not to say,Customer Support,Germany,41,1,High,High,6.7,0,Low,1,6,1
+72,45,Male,HR,Australia,60,1,Low,Medium,3.6,1,Low,0,3,1
+73,49,Female,Finance,India,43,0,Medium,Medium,5.9,1,Medium,1,2,0
+74,35,Female,Sales,Australia,63,1,Low,Low,9.1,0,High,0,4,1
+75,21,Female,Sales,Canada,47,1,Medium,High,9.2,1,High,0,0,1
+76,45,Non-binary,HR,Germany,63,1,High,High,4.6,1,High,0,0,0
+77,27,Non-binary,Customer Support,UK,40,0,Low,Medium,7.1,1,Medium,0,2,1
+78,29,Prefer not to say,Operations,Canada,70,1,High,High,6.1,1,High,0,2,0
+79,44,Male,Operations,Germany,41,0,Medium,Low,8.7,1,High,0,3,1
+80,21,Prefer not to say,Sales,Australia,78,1,Medium,Medium,4.8,0,Medium,0,2,1
+81,28,Male,Operations,USA,44,1,Medium,High,3.0,0,Medium,1,4,0
+82,44,Non-binary,IT,USA,60,0,Medium,Medium,4.1,1,Medium,1,6,1
+83,31,Non-binary,Sales,India,78,1,Low,High,5.3,1,High,0,0,1
+84,37,Non-binary,Sales,Germany,58,1,Low,Low,5.1,0,Medium,0,2,1
+85,28,Prefer not to say,Finance,USA,55,0,Low,Low,8.1,1,High,0,0,1
+86,55,Female,Operations,UK,47,1,Medium,High,7.4,1,Medium,1,1,0
+87,55,Female,Customer Support,Germany,61,0,Low,Low,4.9,0,High,0,0,1
+88,53,Non-binary,Sales,UK,51,0,High,High,6.0,0,Medium,0,1,1
+89,25,Female,Customer Support,UK,67,0,Medium,High,3.6,0,High,0,4,0
+90,59,Female,IT,USA,46,1,Medium,Low,8.8,1,Medium,1,2,1
+91,48,Prefer not to say,Finance,Germany,52,0,Medium,Medium,9.1,0,High,0,5,1
+92,27,Male,HR,Australia,53,0,Medium,Low,9.4,1,Medium,1,2,1
+93,29,Non-binary,Customer Support,Canada,79,1,High,Medium,8.6,1,Medium,0,3,0
+94,28,Non-binary,Sales,USA,37,0,Low,Low,4.1,1,Medium,0,1,1
+95,32,Prefer not to say,IT,USA,70,1,Low,Low,3.3,0,Medium,0,5,1
+96,54,Prefer not to say,Marketing,Australia,35,1,High,Medium,6.8,1,Medium,0,2,1
+97,53,Female,IT,Germany,34,1,Low,Medium,8.9,1,Medium,0,0,0
+98,43,Non-binary,IT,Germany,73,1,Low,High,4.2,1,High,0,4,1
+99,44,Male,Finance,UK,58,0,Medium,High,3.0,1,Medium,0,1,1
+100,57,Prefer not to say,HR,Australia,57,0,Low,High,8.2,1,Medium,0,2,0
+101,55,Male,Marketing,Australia,40,0,Medium,Medium,3.5,1,Medium,0,5,1
+102,42,Male,Operations,Germany,30,0,Low,High,5.7,0,Medium,1,2,1
+103,47,Non-binary,Operations,UK,72,0,High,Medium,7.4,0,High,0,2,0
+104,55,Non-binary,Customer Support,USA,48,1,High,High,4.5,0,Medium,0,5,0
+105,21,Prefer not to say,IT,India,38,0,Medium,High,3.5,1,High,0,0,1
+106,55,Non-binary,Finance,Canada,56,0,Medium,Medium,8.0,0,Medium,0,4,1
+107,57,Non-binary,Finance,USA,63,0,High,Medium,7.1,0,Low,0,3,1
+108,34,Non-binary,Operations,Germany,73,1,Low,High,9.4,1,High,0,5,0
+109,23,Male,Customer Support,Canada,33,1,High,High,5.2,0,Medium,0,0,1
+110,21,Prefer not to say,Customer Support,India,65,0,High,High,3.4,0,Low,0,2,1
+111,25,Female,Customer Support,India,47,1,High,Low,7.8,0,Medium,1,1,0
+112,46,Male,Marketing,UK,44,0,Medium,Medium,6.4,1,High,0,5,1
+113,34,Non-binary,HR,Canada,42,0,Low,Low,4.4,1,Medium,0,3,0
+114,59,Male,Marketing,UK,48,1,Medium,High,8.1,0,Medium,0,1,1
+115,47,Non-binary,Sales,USA,78,1,High,Low,4.3,1,Medium,0,2,1
+116,29,Non-binary,Sales,Australia,35,0,Low,High,4.7,1,Medium,1,0,1
+117,35,Male,HR,Australia,77,0,High,Low,3.6,1,High,0,1,0
+118,35,Prefer not to say,Operations,Australia,41,1,Low,Low,5.6,1,Medium,0,5,1
+119,46,Non-binary,HR,Canada,66,0,Low,Medium,5.7,1,Medium,0,1,1
+120,33,Prefer not to say,Finance,Australia,46,1,Low,High,6.3,1,High,0,3,1
+121,52,Female,Sales,USA,52,0,Low,Low,7.6,0,Medium,0,1,1
+122,59,Non-binary,IT,UK,55,1,Medium,Medium,8.9,0,Medium,0,3,0
+123,52,Prefer not to say,IT,Canada,58,0,Low,Medium,3.9,0,Medium,0,5,1
+124,24,Prefer not to say,Operations,UK,62,0,High,Low,3.4,1,Medium,0,0,1
+125,50,Female,Finance,Canada,56,1,Medium,Low,3.1,1,Medium,0,1,1
+126,57,Prefer not to say,Marketing,UK,54,0,Low,High,3.9,1,Medium,0,3,1
+127,43,Prefer not to say,Finance,India,39,0,Medium,Medium,7.3,0,Medium,0,1,1
+128,59,Female,IT,UK,76,1,High,Low,7.7,1,Medium,1,3,0
+129,35,Non-binary,IT,Australia,52,0,High,High,8.1,1,Medium,0,0,1
+130,49,Prefer not to say,Sales,India,50,0,Low,High,4.6,1,Low,0,1,1
+131,56,Prefer not to say,Finance,UK,50,0,High,Medium,5.0,1,Medium,0,0,1
+132,33,Prefer not to say,Finance,Canada,72,1,High,Medium,6.1,1,High,0,2,1
+133,52,Male,IT,Canada,42,1,Low,High,3.4,1,Medium,0,4,1
+134,27,Female,Marketing,Canada,66,1,Low,High,7.0,1,High,1,1,0
+135,42,Male,Operations,Germany,62,0,Medium,High,9.4,1,Medium,1,3,1
+136,48,Female,Customer Support,USA,53,0,Low,Medium,5.3,0,High,0,1,1
+137,22,Non-binary,Operations,Canada,73,0,High,Medium,7.9,0,High,0,2,1
+138,26,Non-binary,Finance,India,40,0,Medium,High,6.3,1,Low,0,3,0
+139,48,Prefer not to say,Operations,Canada,46,1,High,Low,3.8,0,Medium,0,0,0
+140,48,Female,IT,Germany,33,0,Medium,Medium,6.8,1,Medium,1,2,1
+141,40,Non-binary,IT,Australia,76,0,Low,High,4.9,0,Medium,0,3,1
+142,50,Female,Finance,India,54,0,Low,Medium,3.2,1,Low,0,3,1
+143,31,Non-binary,Finance,Germany,59,1,Medium,Medium,7.1,0,High,0,1,1
+144,48,Male,Customer Support,Australia,38,0,High,Medium,8.6,0,Low,0,1,1
+145,45,Non-binary,Customer Support,India,50,0,High,Low,5.2,1,Medium,1,2,0
+146,59,Male,Sales,UK,49,0,Low,Medium,5.5,0,Medium,0,0,1
+147,53,Non-binary,Finance,USA,48,0,Low,High,8.8,0,Medium,0,1,1
+148,21,Prefer not to say,Marketing,USA,48,0,Low,Low,8.3,0,High,0,4,1
+149,47,Male,Operations,Germany,41,1,Medium,Low,7.6,1,High,1,1,1
+150,33,Non-binary,Finance,Australia,66,0,Low,High,4.6,0,Medium,1,3,1
+151,23,Prefer not to say,HR,USA,71,0,Medium,Low,8.9,1,Medium,0,5,1
+152,59,Male,Sales,Australia,46,0,Medium,Low,4.0,1,Medium,0,2,0
+153,26,Prefer not to say,HR,Australia,66,0,High,High,7.1,1,High,0,2,1
+154,28,Female,IT,Germany,77,0,Medium,High,3.2,1,Low,0,1,0
+155,47,Female,Customer Support,Germany,68,0,Low,Medium,7.2,1,Medium,0,3,1
+156,29,Male,Operations,Germany,57,0,Medium,High,4.8,0,High,0,1,1
+157,57,Non-binary,Finance,USA,70,0,Medium,Low,5.9,1,Medium,0,2,1
+158,53,Male,HR,Germany,64,0,Medium,High,5.2,0,High,0,2,1
+159,44,Prefer not to say,Operations,USA,76,0,High,Medium,4.1,1,Low,1,1,1
+160,35,Non-binary,IT,Germany,77,1,High,High,7.0,1,High,0,4,1
+161,52,Female,Customer Support,Canada,47,1,Low,Medium,8.7,1,Low,0,2,0
+162,52,Non-binary,Marketing,Australia,43,1,Low,Medium,9.2,1,Medium,0,1,1
+163,44,Female,Sales,Germany,64,1,Medium,Medium,4.3,0,Medium,0,2,1
+164,32,Non-binary,Operations,India,73,0,High,Medium,7.7,1,High,0,0,1
+165,59,Non-binary,Operations,Australia,70,1,Low,High,7.3,1,Medium,1,0,1
+166,22,Non-binary,Marketing,Australia,36,1,Medium,Medium,5.2,0,Low,0,1,0
+167,23,Prefer not to say,Operations,Germany,70,0,Medium,Medium,3.1,1,Medium,1,0,0
+168,57,Prefer not to say,IT,UK,42,1,Low,Medium,7.5,1,Medium,0,2,0
+169,37,Male,IT,Germany,47,1,Medium,Medium,9.1,1,Medium,0,4,1
+170,22,Male,Marketing,Australia,66,0,High,High,7.1,1,High,0,2,0
+171,22,Female,Sales,India,42,0,Low,High,5.8,0,Medium,0,5,0
+172,48,Prefer not to say,Finance,Australia,65,0,Medium,Medium,6.4,0,Medium,0,4,1
+173,43,Female,HR,India,60,1,Medium,High,4.3,1,Low,1,4,1
+174,57,Male,Finance,USA,31,1,High,High,7.9,1,Medium,1,2,1
+175,52,Female,Operations,Canada,45,0,High,Medium,7.9,0,Medium,1,3,1
+176,53,Male,HR,Australia,38,0,Medium,Medium,3.9,0,Medium,1,3,1
+177,21,Prefer not to say,Marketing,Germany,38,1,High,High,8.7,1,Low,1,2,1
+178,39,Non-binary,Marketing,USA,67,0,Medium,Medium,4.7,0,Medium,0,3,1
+179,22,Prefer not to say,Sales,Canada,40,1,Medium,High,9.4,0,High,0,2,1
+180,46,Female,HR,Germany,51,0,Low,Medium,5.5,0,Medium,0,1,1
+181,52,Female,IT,UK,62,0,Low,Medium,4.2,0,Medium,0,2,1
+182,26,Prefer not to say,HR,Germany,65,1,Low,Low,5.3,1,High,1,1,0
+183,52,Prefer not to say,Operations,India,74,0,Medium,Medium,5.9,1,High,0,1,1
+184,24,Male,IT,India,52,0,Low,High,3.5,0,Medium,0,6,0
+185,31,Female,Customer Support,UK,74,0,High,Medium,6.8,0,Medium,1,2,1
+186,37,Female,Customer Support,USA,74,1,Low,Medium,6.9,0,High,0,1,0
+187,58,Prefer not to say,Customer Support,Canada,63,0,Low,High,7.8,1,Low,0,2,1
+188,44,Non-binary,Marketing,Germany,38,0,Medium,Medium,3.2,0,Medium,1,1,1
+189,25,Female,HR,India,53,0,High,Medium,6.5,1,Medium,1,2,1
+190,54,Non-binary,Customer Support,USA,37,0,Low,High,3.3,1,Medium,0,4,1
+191,26,Prefer not to say,Finance,UK,36,0,Medium,High,7.6,0,Medium,1,1,1
+192,42,Prefer not to say,Sales,Australia,65,0,High,Low,3.4,0,High,1,1,1
+193,31,Male,Finance,India,47,1,Low,Medium,8.9,0,Low,1,4,0
+194,36,Female,Customer Support,UK,32,1,Medium,Medium,7.6,1,Medium,1,4,1
+195,53,Non-binary,Sales,Germany,57,0,High,Medium,6.3,1,Medium,0,2,1
+196,29,Male,Operations,Canada,35,1,Low,Medium,5.9,0,Medium,0,3,0
+197,26,Female,Finance,India,73,1,Medium,Medium,3.8,1,High,0,3,1
+198,36,Male,HR,India,73,0,Medium,Low,4.9,0,Medium,0,3,1
+199,49,Prefer not to say,HR,Germany,50,1,Medium,Medium,8.6,1,High,0,1,1
+200,23,Female,Finance,Australia,57,1,Low,Low,8.9,1,Medium,0,1,1
+201,40,Male,Customer Support,USA,69,1,Low,Medium,3.0,1,Medium,0,0,1
+202,56,Male,HR,Canada,30,1,Medium,High,6.9,1,High,0,0,1
+203,39,Non-binary,Operations,India,65,1,Low,High,7.7,1,Medium,0,2,1
+204,46,Male,IT,Canada,50,1,High,Medium,7.0,1,Low,1,2,1
+205,23,Female,Customer Support,India,72,1,Medium,Low,3.5,1,High,0,3,0
+206,39,Female,Operations,Canada,64,1,Medium,Low,4.4,1,Medium,0,3,1
+207,40,Non-binary,Sales,UK,42,0,High,Medium,4.6,0,High,0,3,1
+208,52,Female,Operations,India,78,0,Medium,Low,8.4,0,High,0,2,0
+209,27,Prefer not to say,Customer Support,Canada,39,1,Low,Medium,6.0,1,Medium,1,2,0
+210,53,Female,Sales,USA,73,1,High,Low,6.2,1,Medium,0,1,1
+211,59,Female,Customer Support,UK,76,0,Low,High,9.1,1,Medium,0,1,1
+212,38,Male,HR,UK,39,1,Low,Medium,7.1,1,Medium,0,3,1
+213,21,Male,IT,USA,75,1,High,Low,8.8,1,High,0,6,1
+214,31,Female,Customer Support,Canada,42,0,Medium,High,6.0,1,High,0,0,1
+215,48,Non-binary,Customer Support,Germany,66,0,Medium,Medium,4.0,1,Medium,0,2,0
+216,45,Male,HR,USA,67,0,Low,Low,9.0,1,Low,0,2,0
+217,43,Non-binary,Marketing,Canada,53,1,Medium,Medium,6.0,0,Medium,1,2,1
+218,51,Female,HR,USA,31,1,Low,Medium,4.2,0,Medium,0,1,1
+219,50,Female,Sales,USA,51,0,High,High,5.0,1,High,0,2,0
+220,55,Prefer not to say,HR,India,46,0,Low,Low,3.3,0,Low,0,2,1
+221,27,Male,HR,Canada,65,1,High,Medium,6.0,1,High,0,2,1
+222,36,Female,IT,Germany,43,0,Medium,Low,8.5,0,Medium,0,1,1
+223,46,Prefer not to say,HR,India,39,1,High,Low,9.1,0,High,0,2,1
+224,22,Male,Customer Support,USA,64,1,High,High,9.1,1,Medium,1,0,1
+225,21,Female,IT,Australia,54,0,Medium,High,3.8,1,Medium,0,2,0
+226,32,Female,Finance,USA,32,0,Medium,Medium,5.5,0,Medium,1,2,0
+227,25,Male,Marketing,USA,76,1,Low,Medium,3.2,1,High,0,3,1
+228,57,Male,IT,Canada,67,0,Low,Low,8.6,1,Medium,1,0,1
+229,52,Male,Sales,Canada,46,0,High,High,5.3,1,Medium,0,1,1
+230,29,Female,Finance,India,41,0,High,Low,7.1,0,Medium,1,2,0
+231,55,Female,IT,Germany,53,0,Medium,Low,7.6,1,Low,0,5,1
+232,39,Prefer not to say,IT,India,58,1,Low,Medium,5.8,1,Medium,1,2,0
+233,36,Non-binary,Marketing,UK,72,1,Medium,Medium,5.0,0,High,1,3,0
+234,23,Male,Customer Support,USA,54,1,Medium,Medium,9.3,1,Low,0,3,1
+235,40,Female,Sales,Australia,65,1,Medium,Low,9.3,1,Medium,0,0,1
+236,44,Female,Operations,USA,55,0,High,Medium,4.9,1,Medium,1,2,0
+237,53,Male,Operations,USA,67,0,High,Medium,6.1,1,Medium,0,1,0
+238,44,Non-binary,IT,India,30,1,Low,Low,9.3,0,Low,0,1,1
+239,31,Male,HR,Australia,49,1,Medium,High,3.0,0,Medium,1,2,1
+240,28,Non-binary,Sales,Australia,57,0,Medium,Low,5.7,1,Low,0,2,1
+241,56,Female,Finance,Australia,45,1,Medium,Medium,3.7,1,Low,0,2,1
+242,58,Non-binary,HR,India,76,1,Low,Medium,6.3,1,High,0,1,1
+243,40,Prefer not to say,HR,USA,46,0,Low,Low,3.2,1,Medium,1,3,0
+244,55,Female,Sales,India,69,1,High,Medium,5.6,0,High,0,6,0
+245,45,Prefer not to say,Customer Support,Canada,57,0,Medium,High,4.4,0,Low,0,1,1
+246,55,Male,IT,Canada,41,0,Medium,Low,6.5,1,Medium,0,4,0
+247,45,Male,IT,India,56,1,High,High,9.5,0,Low,1,1,1
+248,49,Male,IT,Australia,71,0,High,Medium,8.2,1,Medium,0,2,1
+249,38,Non-binary,IT,USA,76,1,Low,Low,8.5,0,High,0,0,1
+250,38,Female,Operations,India,59,0,Medium,Medium,7.1,1,High,0,3,1
+251,22,Male,IT,India,70,1,Medium,Medium,3.3,0,Low,1,1,1
+252,55,Male,Operations,India,63,1,High,High,4.3,1,Medium,1,1,0
+253,36,Female,Operations,UK,66,1,High,High,9.0,1,Medium,0,1,1
+254,56,Male,Customer Support,Canada,35,0,Medium,High,5.4,0,Medium,0,1,0
+255,53,Prefer not to say,IT,Australia,36,0,Medium,High,3.7,0,Low,1,0,1
+256,24,Female,Marketing,Germany,61,1,High,High,7.6,0,High,0,3,1
+257,53,Female,Finance,Australia,61,0,Low,Medium,4.9,1,High,0,0,0
+258,34,Female,HR,Germany,54,1,Low,Medium,4.7,0,High,1,0,1
+259,41,Prefer not to say,Operations,UK,62,1,Medium,Medium,9.5,1,High,1,4,0
+260,40,Female,Sales,India,36,0,Low,Low,8.6,1,Medium,0,3,0
+261,28,Prefer not to say,Sales,UK,41,1,Low,High,5.7,1,Medium,0,3,1
+262,27,Female,Finance,UK,45,0,High,Medium,9.4,0,Low,0,1,0
+263,23,Non-binary,Sales,USA,45,1,High,Low,7.2,1,Low,0,1,0
+264,37,Male,Marketing,Canada,72,0,Medium,Low,7.8,0,Medium,1,3,1
+265,53,Non-binary,Sales,Germany,65,1,Low,Medium,3.2,1,High,1,0,1
+266,32,Male,HR,India,42,1,Low,Medium,3.8,1,High,1,3,0
+267,42,Prefer not to say,HR,Germany,36,0,Low,Medium,7.1,1,High,0,3,1
+268,42,Non-binary,Operations,Australia,65,1,Low,Medium,8.8,1,High,0,2,1
+269,50,Female,IT,Germany,76,1,High,Medium,7.1,0,High,0,1,0
+270,58,Male,Customer Support,Australia,38,0,Low,Medium,3.9,0,Medium,0,4,1
+271,58,Male,Marketing,Canada,61,1,Medium,Low,3.8,1,High,1,2,1
+272,28,Non-binary,Operations,Australia,40,0,Low,Low,8.5,0,Medium,0,3,1
+273,47,Prefer not to say,Marketing,Germany,37,1,High,Medium,3.9,1,Medium,0,2,1
+274,47,Non-binary,IT,Germany,62,0,High,Medium,6.4,1,High,0,3,0
+275,54,Prefer not to say,Sales,Australia,52,1,High,Low,3.2,1,High,1,0,1
+276,41,Prefer not to say,Sales,UK,54,1,High,Medium,3.5,1,Low,1,5,1
+277,50,Male,Customer Support,Canada,37,1,Medium,Low,7.4,1,Low,1,3,0
+278,53,Non-binary,IT,USA,74,0,Low,Medium,7.5,1,Medium,0,2,0
+279,48,Non-binary,Operations,India,51,0,Medium,Medium,5.2,1,Medium,0,4,1
+280,53,Prefer not to say,Customer Support,Germany,33,0,Medium,Medium,4.4,1,High,0,1,1
+281,25,Non-binary,IT,India,69,0,Medium,High,8.3,0,Medium,0,2,1
+282,39,Female,Finance,USA,32,1,Low,Low,4.4,0,Low,0,1,1
+283,24,Female,HR,India,58,1,Low,High,6.5,1,Medium,0,2,1
+284,55,Non-binary,Customer Support,USA,70,0,Medium,Medium,9.3,1,Low,0,0,1
+285,37,Non-binary,Customer Support,Australia,58,0,Medium,Medium,4.0,1,Low,0,1,0
+286,48,Prefer not to say,Operations,UK,63,0,High,Medium,9.1,0,High,0,2,0
+287,50,Female,Marketing,Germany,63,1,Low,Medium,4.2,0,Medium,0,2,1
+288,49,Female,Finance,USA,57,0,Medium,Medium,6.7,0,Medium,0,2,1
+289,26,Male,Operations,India,42,0,Low,Medium,5.5,0,Low,0,3,1
+290,55,Prefer not to say,IT,Germany,44,1,Low,Low,9.3,0,Medium,0,1,1
+291,57,Male,IT,UK,52,1,Medium,Low,4.8,1,High,0,2,1
+292,44,Female,IT,Australia,73,0,Low,Medium,5.6,1,Medium,1,1,0
+293,49,Prefer not to say,IT,Germany,55,1,Low,Medium,9.4,1,High,1,3,1
+294,51,Non-binary,Marketing,USA,33,0,Medium,Medium,6.5,0,Medium,0,1,1
+295,55,Prefer not to say,Finance,UK,55,1,Low,Low,6.3,0,Medium,0,1,0
+296,53,Non-binary,Sales,India,69,0,Low,High,4.7,1,Medium,0,2,1
+297,41,Non-binary,HR,UK,38,0,Low,High,7.6,1,Medium,1,1,1
+298,52,Prefer not to say,Marketing,UK,34,0,Low,High,3.1,0,High,1,4,1
+299,43,Non-binary,Marketing,Canada,61,0,Low,Medium,3.3,1,Medium,0,1,0
+300,53,Male,Sales,UK,49,1,Medium,High,6.9,0,Medium,0,1,0
+301,23,Female,Sales,UK,79,1,Low,High,5.2,1,Low,0,1,1
+302,38,Non-binary,HR,Germany,40,1,Low,Medium,9.2,1,Medium,0,1,1
+303,45,Male,HR,India,44,1,Medium,Medium,8.9,0,High,0,2,1
+304,51,Non-binary,Sales,Germany,61,0,Medium,High,7.6,1,Medium,0,3,1
+305,23,Female,IT,Germany,57,0,High,Medium,8.3,0,Medium,0,3,1
+306,44,Male,Marketing,USA,51,1,High,Medium,7.3,1,High,0,4,0
+307,52,Female,Operations,Germany,70,1,High,Low,3.8,1,Medium,1,3,1
+308,42,Female,HR,Canada,46,1,Medium,Low,8.0,1,Medium,1,0,0
+309,43,Male,HR,Canada,55,1,Medium,High,4.4,1,Medium,0,1,1
+310,22,Male,Sales,USA,73,1,Medium,Medium,5.1,1,High,0,1,0
+311,47,Male,Finance,Australia,36,0,Low,Medium,8.3,0,High,0,1,1
+312,22,Prefer not to say,Operations,India,71,0,Low,Low,6.5,1,Medium,0,3,0
+313,46,Male,Operations,India,55,0,Low,Medium,8.6,0,Medium,0,3,1
+314,37,Male,HR,Germany,54,1,High,Medium,4.4,0,High,0,3,0
+315,53,Male,IT,Germany,39,1,Medium,Low,7.0,1,Low,1,2,1
+316,29,Male,Finance,Australia,74,1,High,High,3.5,0,Medium,0,2,0
+317,59,Non-binary,Operations,Germany,48,1,Medium,Low,7.2,0,Low,0,3,1
+318,49,Prefer not to say,HR,India,40,0,Medium,Medium,8.0,1,High,0,1,1
+319,46,Female,Operations,UK,42,0,Low,Medium,6.8,0,Low,0,3,1
+320,55,Male,Customer Support,Canada,37,1,Low,Low,4.7,1,Medium,0,2,1
+321,45,Non-binary,Finance,UK,69,0,High,High,3.2,0,Low,1,5,1
+322,44,Non-binary,Finance,UK,33,0,Medium,High,3.8,0,Medium,1,2,1
+323,33,Non-binary,Customer Support,India,76,1,Medium,High,7.0,0,High,0,2,1
+324,27,Female,Marketing,UK,60,1,High,Low,9.1,1,Medium,0,1,1
+325,56,Male,Customer Support,Australia,57,1,Low,Low,4.3,1,Medium,1,2,0
+326,40,Prefer not to say,Sales,USA,40,1,High,Low,7.8,0,Medium,0,4,1
+327,21,Prefer not to say,Sales,Germany,72,1,Medium,Medium,8.6,0,Medium,1,1,0
+328,28,Non-binary,HR,USA,30,1,Medium,High,6.4,1,High,0,1,1
+329,36,Female,Finance,Canada,78,0,Medium,High,7.4,0,Medium,0,1,0
+330,34,Female,Marketing,Germany,76,0,Low,High,8.3,1,High,0,3,1
+331,32,Female,Marketing,UK,67,1,Low,High,4.7,0,Medium,0,0,0
+332,43,Prefer not to say,Operations,Canada,53,0,Medium,High,4.9,1,Medium,1,3,1
+333,35,Non-binary,Operations,Germany,76,1,High,Medium,3.0,0,Medium,0,0,1
+334,48,Male,Customer Support,Australia,60,1,High,Low,9.3,1,Medium,0,1,1
+335,54,Prefer not to say,Marketing,Australia,70,1,Low,Medium,9.0,1,Medium,0,0,0
+336,22,Non-binary,Customer Support,Australia,75,1,Medium,Low,8.0,1,High,1,0,1
+337,52,Non-binary,Customer Support,Australia,79,0,Low,Low,3.5,0,Medium,0,0,1
+338,43,Male,Operations,UK,55,1,Low,Medium,5.9,1,Low,1,1,1
+339,42,Male,Finance,USA,78,0,Medium,High,3.7,1,High,0,2,0
+340,45,Male,Customer Support,Germany,79,1,Medium,Low,3.1,0,High,0,1,1
+341,42,Female,IT,UK,34,1,Low,High,7.0,0,Low,0,3,1
+342,42,Male,Finance,Australia,49,1,Low,High,9.2,1,Medium,0,2,0
+343,26,Non-binary,Marketing,USA,70,0,High,Medium,8.9,0,Medium,0,4,0
+344,35,Male,Marketing,Canada,40,1,Low,Low,7.5,1,High,0,0,1
+345,57,Non-binary,Customer Support,Canada,62,1,Medium,Low,3.6,1,High,0,3,1
+346,53,Prefer not to say,Finance,Canada,79,1,Medium,High,4.8,1,High,0,4,0
+347,28,Female,Operations,Australia,67,0,Low,High,5.1,1,High,0,1,1
+348,25,Prefer not to say,Operations,Canada,56,0,Low,High,8.0,1,Medium,0,4,0
+349,59,Prefer not to say,Sales,India,63,0,Medium,Medium,8.2,0,High,1,2,1
+350,24,Non-binary,Marketing,Germany,44,1,High,Low,5.5,1,Medium,0,0,1
+351,26,Prefer not to say,HR,Germany,61,0,Medium,Low,5.7,0,Low,1,1,0
+352,52,Non-binary,Sales,Australia,50,1,Medium,High,3.3,1,Medium,0,1,1
+353,50,Male,Operations,India,75,0,High,Low,4.9,1,High,0,2,1
+354,55,Male,Finance,UK,34,0,High,Medium,5.9,0,High,0,2,1
+355,36,Non-binary,Operations,UK,35,1,Medium,Medium,3.8,1,Low,0,3,0
+356,33,Male,Finance,Canada,67,0,Medium,Low,5.9,0,High,0,2,0
+357,50,Female,Sales,USA,51,1,Medium,Low,8.5,1,High,0,3,1
+358,39,Prefer not to say,Marketing,UK,47,1,Medium,Medium,6.8,1,Medium,0,1,0
+359,37,Female,Operations,USA,43,0,Medium,Low,3.5,1,Medium,0,1,1
+360,39,Prefer not to say,Customer Support,Germany,39,1,Medium,Low,4.2,0,High,1,3,0
+361,48,Male,Finance,USA,75,1,Low,High,6.1,1,Medium,1,1,1
+362,46,Female,Marketing,Germany,42,0,Medium,High,5.3,1,Low,0,3,0
+363,57,Male,HR,India,60,0,Low,Low,5.3,0,High,0,1,1
+364,46,Prefer not to say,Finance,India,59,1,Low,High,6.4,1,High,1,2,1
+365,43,Non-binary,Sales,Australia,32,0,Low,Medium,6.8,0,Medium,1,1,0
+366,29,Non-binary,HR,Australia,59,1,Medium,Medium,8.2,1,High,0,2,1
+367,32,Female,HR,Canada,35,1,Medium,High,5.2,1,Medium,0,4,1
+368,21,Male,IT,UK,58,0,Low,High,8.2,1,Low,1,2,0
+369,21,Male,Operations,Canada,37,0,Medium,High,5.2,1,Medium,1,2,1
+370,54,Female,Finance,Germany,73,0,Medium,Low,3.4,1,Medium,0,3,1
+371,52,Non-binary,HR,Canada,74,0,Low,Low,6.6,1,High,0,3,0
+372,45,Prefer not to say,IT,USA,72,1,Medium,High,6.8,0,Low,1,1,0
+373,21,Female,Sales,Germany,73,1,High,Medium,9.1,0,Medium,1,2,1
+374,36,Prefer not to say,Marketing,Australia,62,0,High,Low,7.7,1,Medium,1,1,1
+375,59,Non-binary,Customer Support,India,46,0,Medium,High,9.0,1,High,1,3,1
+376,25,Male,Customer Support,Australia,77,1,Medium,High,8.9,1,Low,0,3,0
+377,42,Non-binary,Finance,UK,40,1,Low,High,6.9,0,Low,1,1,1
+378,49,Female,HR,Germany,42,1,Low,Medium,6.4,0,Medium,0,3,0
+379,23,Male,Customer Support,Germany,79,1,Low,High,6.6,0,High,1,1,1
+380,32,Female,Operations,USA,40,0,High,Low,9.4,1,Medium,0,2,0
+381,46,Female,Customer Support,UK,60,1,Low,Low,8.0,1,Medium,1,3,1
+382,36,Non-binary,Customer Support,India,57,1,Low,Medium,3.7,0,Low,0,3,1
+383,57,Female,Customer Support,Germany,73,0,High,Low,8.1,0,High,0,3,1
+384,42,Non-binary,IT,Germany,35,1,High,Medium,4.1,1,Low,0,0,1
+385,49,Male,HR,USA,70,1,High,Medium,5.9,0,Medium,0,0,1
+386,34,Non-binary,Operations,Canada,45,0,Low,Medium,4.4,1,Medium,1,5,1
+387,48,Male,HR,India,33,0,Low,Low,7.5,0,Medium,1,0,1
+388,25,Non-binary,Finance,Australia,64,0,Medium,Low,8.7,1,High,0,1,0
+389,50,Prefer not to say,Finance,UK,77,1,Low,Medium,4.9,1,Medium,0,0,1
+390,25,Prefer not to say,Finance,Germany,55,1,Low,Medium,3.5,1,High,1,3,1
+391,32,Female,Sales,Germany,41,0,Medium,High,4.9,0,High,1,1,0
+392,36,Non-binary,Customer Support,Australia,40,0,High,High,7.4,0,Medium,1,3,0
+393,46,Non-binary,Sales,India,66,1,Medium,Medium,5.1,1,High,1,1,1
+394,46,Male,IT,Canada,54,0,Medium,High,4.8,1,High,1,7,0
+395,41,Female,Finance,Germany,47,0,Medium,Low,4.2,0,High,0,3,1
+396,59,Non-binary,Operations,India,48,0,Low,Low,6.2,0,Medium,1,2,1
+397,56,Female,HR,Australia,52,1,Medium,High,4.8,1,Medium,0,1,1
+398,53,Prefer not to say,Customer Support,USA,67,1,Low,Medium,7.8,1,Medium,1,2,0
+399,50,Non-binary,Marketing,Canada,47,1,Low,High,3.5,0,High,1,2,1
+400,57,Non-binary,Operations,UK,55,1,High,Medium,7.3,0,Medium,0,4,1
+401,43,Female,Customer Support,Germany,35,1,Low,High,4.5,1,Medium,0,1,1
+402,30,Non-binary,Sales,India,33,1,High,Medium,6.2,1,Medium,0,5,0
+403,25,Female,Sales,USA,73,0,Low,Medium,4.9,1,Medium,0,1,1
+404,56,Non-binary,Operations,UK,58,1,Medium,Medium,7.7,1,Medium,0,2,1
+405,54,Male,Sales,India,63,1,Medium,High,9.1,0,Low,1,1,1
+406,51,Female,Finance,India,46,0,Low,Medium,9.0,0,Medium,0,2,1
+407,30,Non-binary,IT,UK,72,1,Low,High,6.8,0,High,0,2,0
+408,39,Prefer not to say,HR,USA,72,1,Medium,Low,6.0,1,Medium,1,0,1
+409,52,Non-binary,IT,Australia,45,0,High,Low,8.3,1,High,1,4,1
+410,21,Prefer not to say,Customer Support,USA,31,0,High,Medium,7.4,0,Low,0,2,1
+411,25,Prefer not to say,HR,Canada,63,0,Medium,Medium,4.2,1,Medium,1,3,1
+412,24,Male,HR,Germany,37,1,High,High,8.3,0,High,0,0,1
+413,36,Female,IT,UK,42,0,Medium,Medium,5.8,1,High,0,2,1
+414,44,Non-binary,Operations,Australia,71,1,High,Medium,4.2,1,Medium,0,1,0
+415,36,Male,HR,UK,37,1,Medium,Medium,4.8,0,High,0,3,0
+416,22,Non-binary,IT,UK,59,1,Medium,Medium,4.7,0,High,0,1,1
+417,48,Prefer not to say,HR,USA,61,1,High,High,6.4,1,High,1,7,1
+418,52,Female,Marketing,Germany,65,0,Medium,Low,4.5,1,Medium,1,2,1
+419,47,Non-binary,Operations,Canada,76,0,High,Medium,3.8,1,Low,0,0,1
+420,40,Non-binary,Finance,India,59,1,Medium,High,3.8,1,Medium,0,3,0
+421,44,Prefer not to say,HR,India,30,0,Low,High,6.8,1,Medium,0,5,1
+422,32,Non-binary,Marketing,UK,72,1,Low,Medium,7.8,0,Low,1,1,1
+423,55,Non-binary,Finance,Germany,68,1,Medium,Medium,5.1,0,High,1,1,1
+424,53,Prefer not to say,Finance,Australia,46,1,Medium,Low,3.2,1,Low,0,1,1
+425,53,Male,Customer Support,USA,49,0,High,Medium,3.8,0,Medium,0,2,1
+426,57,Prefer not to say,HR,Germany,53,1,Low,High,8.9,1,Medium,0,1,1
+427,32,Male,IT,Germany,79,1,High,Medium,6.2,0,High,0,4,1
+428,23,Female,HR,USA,51,0,High,Low,5.9,0,Medium,0,2,0
+429,21,Male,Marketing,UK,58,0,Low,Low,3.2,0,High,0,3,1
+430,53,Male,Finance,Germany,51,0,High,Low,7.7,1,Medium,0,2,1
+431,30,Female,HR,India,73,0,High,Low,6.4,0,High,0,0,1
+432,49,Male,IT,USA,38,1,High,Low,4.3,1,High,0,1,1
+433,33,Prefer not to say,Customer Support,Australia,66,0,High,Medium,3.7,1,Medium,0,5,1
+434,32,Male,HR,Canada,39,1,High,Low,5.5,1,High,1,4,1
+435,51,Female,Operations,UK,65,0,Medium,Low,8.4,1,Low,1,1,0
+436,22,Prefer not to say,Customer Support,USA,66,0,Medium,Medium,8.6,0,Medium,1,3,0
+437,55,Female,IT,Canada,57,0,High,Low,6.9,1,Low,1,2,1
+438,43,Female,Marketing,Canada,57,0,Medium,Low,7.7,0,Medium,0,3,1
+439,37,Non-binary,Finance,Australia,71,0,Medium,Medium,3.7,1,High,0,1,0
+440,46,Non-binary,HR,Germany,72,0,Low,Low,6.8,0,Low,1,1,1
+441,28,Female,IT,Australia,50,1,High,Medium,7.3,1,Medium,0,1,1
+442,49,Female,Customer Support,Germany,53,0,Low,Low,4.3,1,Medium,0,1,0
+443,46,Female,Operations,Germany,71,0,High,High,8.7,1,Medium,0,2,1
+444,30,Non-binary,IT,USA,69,0,Medium,High,4.3,1,Medium,0,2,0
+445,46,Non-binary,Sales,USA,31,0,Low,High,5.0,1,High,0,0,1
+446,54,Male,Operations,UK,37,1,Medium,Medium,7.0,0,Low,0,1,1
+447,27,Male,Customer Support,Germany,77,0,Low,High,7.1,1,Medium,1,0,1
+448,24,Female,Marketing,Canada,56,0,Medium,Medium,7.5,0,Medium,0,2,1
+449,31,Prefer not to say,Finance,India,51,0,High,Low,3.7,1,Medium,1,0,0
+450,49,Prefer not to say,Customer Support,UK,66,0,High,Medium,8.5,1,Medium,0,3,1
+451,56,Non-binary,Marketing,USA,56,1,Low,High,6.5,1,High,1,2,1
+452,45,Non-binary,HR,Australia,58,0,Low,Medium,6.1,1,Medium,0,2,1
+453,41,Non-binary,IT,UK,32,1,High,Low,9.4,1,Medium,0,4,1
+454,56,Female,Sales,UK,73,0,High,High,7.8,1,Low,0,2,1
+455,30,Prefer not to say,Operations,UK,42,1,Medium,High,3.8,0,Medium,0,1,1
+456,57,Male,Operations,UK,74,1,Medium,Low,7.9,1,High,0,0,0
+457,29,Female,IT,India,39,0,Medium,Medium,3.6,1,Low,0,1,1
+458,44,Male,Sales,Australia,65,0,High,Low,3.2,1,Medium,0,1,1
+459,55,Male,IT,Australia,38,1,Medium,High,5.6,1,High,0,2,1
+460,55,Female,HR,Australia,56,1,Low,Low,9.5,0,Medium,1,1,1
+461,56,Male,Marketing,Germany,63,0,Low,Medium,4.1,0,Medium,1,4,0
+462,38,Prefer not to say,Customer Support,Canada,30,1,High,High,7.4,1,Medium,0,1,1
+463,59,Male,Operations,Australia,61,1,Low,Medium,4.1,0,Low,0,2,1
+464,52,Prefer not to say,HR,UK,54,1,Medium,Medium,7.7,0,High,1,0,1
+465,44,Prefer not to say,Marketing,UK,58,0,Medium,Medium,6.3,1,Low,0,1,1
+466,43,Prefer not to say,HR,Australia,36,1,Low,Low,7.4,1,High,0,2,1
+467,52,Non-binary,Sales,Australia,78,1,Low,Medium,4.3,1,Medium,0,2,0
+468,57,Male,Operations,UK,32,1,High,Low,7.8,0,High,0,5,1
+469,32,Female,Customer Support,Germany,49,0,High,Medium,9.5,1,Low,0,3,1
+470,33,Female,IT,USA,49,0,High,Low,7.3,0,Medium,0,0,1
+471,43,Male,IT,USA,59,1,High,Medium,6.2,1,Medium,0,1,1
+472,45,Non-binary,Marketing,Australia,64,0,Medium,High,9.0,0,Medium,0,0,1
+473,55,Non-binary,Customer Support,India,64,1,High,High,3.1,1,Medium,1,2,1
+474,50,Prefer not to say,Finance,Australia,78,0,Medium,Medium,7.7,1,High,0,2,1
+475,37,Male,Sales,Australia,68,0,Medium,Low,8.8,1,High,0,5,1
+476,40,Male,Marketing,USA,56,1,High,Medium,3.4,1,Low,0,2,0
+477,45,Female,Finance,UK,55,0,Low,High,5.9,1,Low,0,2,1
+478,42,Male,HR,Australia,43,0,Medium,Low,4.3,0,High,0,3,1
+479,33,Non-binary,Sales,UK,46,0,Medium,High,6.7,1,Low,0,5,0
+480,39,Male,HR,UK,47,1,Low,Medium,7.2,0,High,0,5,1
+481,56,Female,Customer Support,India,74,0,Low,High,5.0,1,Medium,0,2,1
+482,32,Prefer not to say,Operations,UK,58,0,High,High,6.0,1,Medium,0,1,1
+483,39,Female,Sales,USA,49,1,High,High,4.8,0,Low,0,0,0
+484,32,Female,Finance,Germany,56,0,Medium,Medium,5.4,1,Medium,1,1,1
+485,29,Prefer not to say,Operations,Germany,47,0,Low,Low,4.0,0,Medium,0,1,1
+486,27,Female,IT,Canada,33,0,Low,Medium,8.8,0,High,0,1,0
+487,48,Female,Finance,Australia,30,0,High,Medium,3.1,1,High,0,2,1
+488,34,Male,Marketing,USA,79,0,Medium,Low,8.7,1,Low,0,2,0
+489,51,Male,IT,UK,30,1,Medium,Medium,6.7,1,Low,1,1,1
+490,39,Prefer not to say,IT,Germany,55,1,Medium,Medium,5.2,0,Low,0,1,1
+491,36,Male,Marketing,USA,74,0,Medium,Medium,7.7,0,High,0,1,0
+492,25,Male,Sales,Germany,49,0,Medium,Medium,6.3,1,Medium,0,2,0
+493,55,Female,IT,UK,52,0,High,Low,6.2,0,Low,0,2,1
+494,32,Non-binary,Customer Support,Germany,39,1,Medium,High,3.7,0,Medium,0,1,1
+495,45,Male,Finance,Australia,40,1,Medium,Low,5.5,1,Medium,0,3,0
+496,41,Non-binary,Operations,Australia,70,0,Medium,Medium,4.6,1,High,0,2,1
+497,56,Male,IT,Canada,70,0,High,Medium,3.1,1,Medium,1,1,0
+498,43,Male,Finance,Canada,34,1,Medium,High,5.3,0,Medium,0,1,0
+499,36,Prefer not to say,HR,Germany,30,0,Low,Low,3.6,0,Medium,0,1,1
+500,59,Prefer not to say,Finance,USA,46,1,Medium,Medium,4.7,0,Medium,1,3,1
+501,59,Prefer not to say,Operations,Australia,51,1,Low,Medium,3.6,1,Low,1,1,1
+502,34,Non-binary,Finance,USA,63,0,High,Low,3.7,0,Low,0,5,0
+503,51,Female,Marketing,USA,74,1,Medium,Medium,4.3,1,Medium,0,1,0
+504,25,Male,Operations,Germany,70,0,High,High,9.5,1,Low,1,3,1
+505,55,Male,Sales,USA,58,0,Low,High,3.0,1,Medium,0,5,0
+506,43,Male,HR,Australia,33,0,High,Low,7.2,1,Medium,0,1,1
+507,49,Non-binary,Marketing,UK,34,0,Medium,Low,3.9,0,High,1,0,0
+508,31,Prefer not to say,Sales,Canada,40,0,High,Medium,9.0,0,Medium,0,3,1
+509,38,Female,Finance,UK,50,0,Medium,Medium,3.6,1,Medium,0,2,0
+510,32,Non-binary,Operations,USA,64,1,Medium,Low,9.2,0,Medium,0,0,1
+511,29,Prefer not to say,HR,UK,41,1,High,Low,7.0,1,Medium,0,0,1
+512,30,Non-binary,Marketing,Australia,55,1,Low,High,3.0,1,Low,1,2,1
+513,37,Female,Sales,Australia,48,1,Low,High,8.8,1,High,0,1,0
+514,58,Prefer not to say,Sales,USA,74,0,Medium,Low,6.4,0,Low,1,2,1
+515,27,Non-binary,HR,Germany,36,1,Medium,Medium,4.7,1,Medium,0,2,0
+516,33,Female,Customer Support,UK,76,1,Low,Medium,8.0,0,High,0,2,1
+517,29,Male,Finance,Germany,36,1,Low,Low,9.0,1,Medium,0,3,1
+518,47,Female,HR,Germany,55,0,Low,Medium,6.1,1,High,1,2,0
+519,22,Male,Sales,India,69,1,High,Medium,5.1,1,Medium,1,1,1
+520,25,Non-binary,IT,USA,34,0,Medium,High,8.1,1,High,0,2,1
+521,49,Prefer not to say,Marketing,Canada,50,1,High,High,7.4,1,High,0,2,1
+522,57,Prefer not to say,HR,Australia,43,0,High,Medium,8.8,1,High,0,2,1
+523,58,Non-binary,Customer Support,Australia,33,0,Medium,Medium,7.5,1,High,1,4,0
+524,39,Prefer not to say,Sales,USA,52,1,Low,Low,4.6,0,High,0,4,1
+525,28,Prefer not to say,Finance,Canada,71,0,Low,Medium,9.1,1,High,0,0,1
+526,21,Male,Sales,Australia,49,0,Low,Medium,3.7,1,Medium,0,3,1
+527,42,Non-binary,Finance,USA,44,1,High,Low,4.7,0,Low,0,1,1
+528,37,Female,HR,Australia,79,1,Medium,Low,6.4,0,Medium,0,3,1
+529,27,Male,Finance,Germany,74,1,Low,Low,6.7,0,High,0,3,0
+530,45,Non-binary,Operations,UK,58,0,Medium,High,3.1,0,High,1,2,0
+531,24,Male,Operations,UK,37,0,Medium,Low,8.1,1,High,0,2,1
+532,56,Female,Operations,Australia,70,0,Medium,Low,5.4,1,High,0,1,1
+533,26,Female,Customer Support,India,77,1,Low,Medium,5.6,1,Low,0,2,1
+534,51,Non-binary,Customer Support,Canada,48,0,High,Medium,8.3,1,Medium,0,0,1
+535,39,Female,IT,Canada,77,0,Medium,Low,5.5,1,Medium,1,1,1
+536,59,Male,Customer Support,Canada,68,0,Low,High,3.3,0,Low,0,2,1
+537,47,Female,HR,Germany,75,0,High,High,4.1,1,Medium,0,1,1
+538,30,Male,Sales,Canada,57,0,Low,Medium,9.2,1,High,0,2,0
+539,46,Male,Sales,UK,75,0,High,Medium,3.5,1,High,0,2,1
+540,39,Female,IT,Germany,56,0,High,Low,5.3,0,Medium,0,1,0
+541,59,Non-binary,Customer Support,USA,33,1,High,Medium,6.3,1,Low,0,0,0
+542,23,Prefer not to say,Finance,Canada,44,1,High,High,6.2,0,Medium,0,2,1
+543,33,Female,IT,Canada,64,1,Medium,Low,3.0,1,Medium,1,3,0
+544,48,Male,Finance,USA,66,0,High,Low,6.3,0,Medium,0,3,0
+545,40,Male,Finance,Canada,30,0,Medium,Medium,5.5,1,Low,0,1,0
+546,48,Female,Marketing,USA,32,1,High,Low,9.3,0,Medium,1,2,0
+547,28,Non-binary,Sales,Germany,76,0,High,High,4.0,0,Medium,0,3,1
+548,59,Non-binary,Operations,UK,53,1,High,Low,5.3,1,High,0,1,0
+549,21,Male,Customer Support,USA,56,0,High,High,5.7,0,Low,0,2,1
+550,23,Male,Finance,India,69,0,Medium,Medium,5.5,1,Low,0,1,1
+551,33,Non-binary,Marketing,USA,65,1,High,High,7.3,1,Low,0,4,1
+552,48,Prefer not to say,Sales,Canada,63,1,Medium,Medium,4.4,1,Medium,0,2,1
+553,45,Female,Operations,Germany,58,1,High,Medium,4.4,0,Medium,1,5,1
+554,53,Male,Finance,Australia,53,1,Medium,High,7.7,1,High,0,2,0
+555,58,Male,Finance,Germany,53,1,Medium,Medium,6.3,1,Medium,0,4,1
+556,26,Non-binary,IT,Australia,71,0,Medium,Medium,5.7,1,Medium,0,3,1
+557,52,Female,IT,USA,33,0,Medium,Medium,4.1,0,Medium,0,0,1
+558,41,Non-binary,Sales,UK,32,0,High,High,4.2,1,Medium,0,3,1
+559,36,Female,Operations,India,63,1,Medium,Medium,3.1,1,Low,0,1,0
+560,41,Female,Finance,Germany,78,1,Medium,High,3.6,0,Medium,0,3,1
+561,31,Female,Sales,Canada,52,1,Medium,Low,6.6,0,High,1,2,0
+562,57,Male,Sales,Australia,52,1,High,Medium,8.8,1,High,0,1,1
+563,56,Prefer not to say,HR,Canada,74,1,Medium,High,4.9,1,High,1,0,1
+564,55,Non-binary,Customer Support,UK,34,1,Low,Medium,5.1,1,Medium,1,1,1
+565,39,Prefer not to say,IT,Australia,60,0,Low,High,3.8,1,Medium,0,1,1
+566,40,Non-binary,Operations,Germany,70,0,Low,High,5.5,0,High,1,4,1
+567,38,Female,Finance,USA,35,0,Medium,Medium,3.2,0,Low,1,1,1
+568,34,Male,Sales,Canada,66,0,Low,Low,9.0,1,Low,0,2,0
+569,35,Prefer not to say,Finance,UK,39,0,Low,Low,7.4,1,Low,1,3,1
+570,51,Male,HR,Germany,69,1,High,High,9.4,1,Medium,0,3,1
+571,21,Non-binary,Operations,Germany,36,1,High,High,8.7,1,Medium,0,1,1
+572,23,Male,Sales,Germany,68,1,Medium,Low,6.1,0,Medium,1,2,1
+573,36,Male,Finance,Germany,67,1,High,Low,6.4,1,Medium,0,4,1
+574,43,Prefer not to say,IT,Australia,50,1,Low,Low,4.2,1,High,0,5,1
+575,31,Female,Customer Support,Germany,49,1,Medium,High,6.0,0,Low,0,1,0
+576,32,Male,HR,Canada,32,0,Medium,Medium,8.9,1,Medium,1,2,1
+577,30,Female,Operations,UK,51,1,Medium,Medium,3.3,0,Medium,1,3,1
+578,52,Non-binary,HR,Australia,76,1,Medium,Medium,8.6,0,Medium,0,2,1
+579,36,Male,IT,Germany,33,1,Medium,High,5.2,1,Medium,1,2,1
+580,28,Prefer not to say,Operations,India,57,1,Medium,Medium,8.8,1,High,0,3,1
+581,58,Non-binary,HR,India,41,0,High,Medium,9.1,1,Low,0,2,1
+582,32,Non-binary,Marketing,UK,67,0,Low,Low,7.4,0,High,0,0,1
+583,44,Prefer not to say,IT,USA,65,1,Low,Medium,7.3,0,Medium,1,4,1
+584,48,Male,IT,USA,76,0,Low,High,5.9,0,Low,0,1,1
+585,28,Male,IT,Australia,70,0,Low,High,8.4,0,High,0,0,0
+586,48,Non-binary,Marketing,Australia,34,1,Medium,Low,9.3,0,Medium,1,3,0
+587,56,Male,Marketing,Australia,42,1,Low,Low,8.0,1,Low,1,3,1
+588,46,Female,Finance,USA,52,1,High,Low,7.0,1,Low,0,2,0
+589,28,Prefer not to say,Sales,India,79,1,Low,Medium,6.9,1,Low,0,3,1
+590,48,Female,Customer Support,USA,59,1,Low,High,8.5,1,Medium,1,1,0
+591,48,Male,HR,Canada,66,0,Medium,Low,6.5,1,Low,1,1,0
+592,57,Non-binary,Finance,Germany,54,1,Low,Medium,8.2,0,Medium,0,2,1
+593,56,Prefer not to say,HR,Australia,77,1,Medium,Medium,6.3,0,Low,1,3,1
+594,47,Male,Customer Support,India,56,1,Medium,Low,3.4,1,High,1,4,0
+595,37,Male,Sales,UK,43,0,Low,Medium,5.5,1,High,1,2,0
+596,29,Non-binary,Marketing,UK,77,1,Low,Low,5.9,1,High,1,4,0
+597,53,Non-binary,Sales,Germany,76,1,Medium,Medium,3.9,1,Low,0,1,1
+598,40,Female,Marketing,India,65,1,Low,High,3.7,1,High,0,0,0
+599,33,Prefer not to say,Customer Support,USA,68,0,Low,Medium,6.5,1,Medium,0,3,1
+600,48,Prefer not to say,Sales,USA,45,1,Low,Low,3.6,1,High,0,6,1
+601,49,Non-binary,Finance,Canada,51,1,Low,High,5.0,0,Medium,1,3,1
+602,33,Female,Operations,Canada,50,1,Medium,Medium,7.8,1,Medium,1,3,0
+603,55,Prefer not to say,Finance,USA,50,0,Medium,High,9.3,1,High,0,3,1
+604,26,Non-binary,HR,UK,37,1,Medium,Low,7.7,0,Low,0,4,1
+605,38,Male,Finance,Australia,78,1,Low,Low,9.5,1,Medium,0,2,1
+606,25,Prefer not to say,Customer Support,UK,45,1,Low,Low,7.5,1,High,0,1,1
+607,45,Female,IT,Canada,60,0,High,Low,4.9,1,High,0,5,1
+608,22,Female,HR,Germany,71,1,Medium,Medium,7.4,1,High,0,3,0
+609,30,Female,Sales,USA,39,1,High,High,7.6,0,Medium,0,3,1
+610,50,Male,HR,Canada,61,1,Medium,Medium,5.4,1,Medium,0,0,1
+611,25,Prefer not to say,Operations,Canada,63,0,Medium,Low,3.1,1,Low,0,0,1
+612,53,Prefer not to say,Marketing,Australia,38,0,Medium,Medium,7.6,1,Medium,1,2,1
+613,21,Male,Sales,USA,46,1,Medium,Low,3.1,0,Medium,0,2,1
+614,38,Prefer not to say,HR,Australia,40,0,Medium,Medium,7.1,0,Medium,0,2,0
+615,52,Male,Sales,USA,61,0,Medium,Medium,4.1,1,Low,0,0,0
+616,31,Male,Sales,Australia,39,0,Low,High,6.7,0,Medium,0,0,1
+617,41,Male,Sales,UK,51,1,Medium,High,6.3,0,High,1,2,1
+618,46,Female,Marketing,Germany,46,1,High,Low,3.1,1,High,0,0,1
+619,45,Prefer not to say,Customer Support,Germany,33,0,High,Medium,5.4,1,High,1,0,1
+620,42,Male,Finance,USA,77,0,Medium,High,6.9,1,High,0,5,1
+621,47,Prefer not to say,Sales,India,76,0,Medium,High,8.5,0,Medium,0,1,0
+622,33,Female,IT,Canada,54,1,Low,Medium,8.8,1,High,0,2,1
+623,53,Male,Customer Support,Canada,50,1,Medium,High,6.1,1,Medium,1,1,0
+624,54,Non-binary,Operations,USA,66,0,Medium,Low,7.7,0,High,0,0,1
+625,55,Female,Marketing,Australia,67,0,High,High,5.1,0,High,1,0,1
+626,21,Non-binary,HR,India,78,0,Medium,Low,5.2,1,High,0,0,1
+627,41,Prefer not to say,Marketing,UK,30,0,Medium,Medium,4.3,1,Medium,0,0,1
+628,26,Prefer not to say,HR,Australia,54,1,Medium,High,6.7,1,Low,1,2,0
+629,48,Female,Marketing,Australia,65,0,High,Low,5.0,0,Low,1,4,0
+630,37,Prefer not to say,HR,USA,46,1,Medium,Medium,3.5,0,Low,0,0,1
+631,25,Non-binary,Sales,USA,70,0,Medium,Medium,7.5,1,Low,0,1,1
+632,51,Male,Finance,Canada,53,0,High,High,7.6,0,Low,0,3,1
+633,25,Male,HR,USA,31,0,Low,High,5.3,1,Medium,0,1,1
+634,58,Male,HR,USA,69,0,High,High,3.5,1,Medium,1,2,1
+635,23,Female,IT,USA,44,0,Low,Medium,5.8,0,High,0,1,0
+636,43,Prefer not to say,HR,Canada,61,1,High,High,5.9,1,Medium,0,4,0
+637,57,Non-binary,IT,UK,68,0,Medium,Medium,7.3,1,Medium,1,3,1
+638,57,Prefer not to say,Operations,UK,35,0,Medium,Medium,5.1,1,High,1,1,0
+639,30,Prefer not to say,Sales,USA,30,0,High,High,7.4,0,Medium,0,2,1
+640,30,Prefer not to say,IT,Canada,76,1,Low,Medium,8.7,0,High,1,1,1
+641,39,Male,Finance,UK,52,1,Low,Low,4.5,1,Low,0,4,0
+642,37,Non-binary,Customer Support,Australia,68,1,Medium,Low,9.4,1,Low,0,0,1
+643,41,Non-binary,Sales,UK,46,1,Medium,Low,5.5,0,Medium,1,5,1
+644,34,Prefer not to say,IT,UK,63,0,Medium,High,4.7,0,Low,0,2,1
+645,29,Male,Sales,Canada,70,0,Low,Medium,5.7,0,Medium,0,3,0
+646,21,Male,Sales,Australia,58,0,Low,High,3.6,1,Medium,0,3,1
+647,33,Non-binary,Sales,Canada,38,1,Low,Medium,3.8,1,Medium,1,1,1
+648,24,Male,Operations,USA,42,0,Low,Low,5.7,1,Low,0,2,1
+649,21,Male,Finance,Germany,35,0,Medium,Medium,8.0,0,Medium,0,0,0
+650,52,Male,Marketing,UK,35,1,High,High,8.9,1,Medium,0,1,1
+651,54,Female,Marketing,Germany,49,1,High,Medium,7.3,0,Medium,0,0,1
+652,48,Prefer not to say,IT,Canada,32,1,High,High,3.7,1,Low,0,4,1
+653,51,Non-binary,Sales,Canada,46,0,Low,Medium,7.4,1,Low,1,4,1
+654,28,Non-binary,IT,Canada,78,0,Medium,Medium,7.1,0,Low,0,3,1
+655,59,Female,Operations,Germany,41,1,Low,Medium,8.2,1,Low,0,1,1
+656,46,Prefer not to say,Operations,Canada,77,0,Low,High,8.4,0,High,0,4,0
+657,54,Non-binary,HR,USA,76,1,Medium,High,8.6,0,Low,0,1,1
+658,23,Male,Operations,Canada,74,1,Low,Low,5.7,1,High,1,5,0
+659,32,Non-binary,HR,India,30,0,Low,Medium,7.5,1,High,0,0,1
+660,21,Male,Finance,Germany,46,1,High,Medium,4.7,1,Low,0,3,1
+661,25,Female,IT,India,32,1,Medium,High,9.5,1,Medium,0,0,1
+662,50,Male,Customer Support,Canada,55,1,Medium,Low,4.1,1,High,0,4,1
+663,50,Non-binary,Finance,USA,44,0,Low,High,3.1,0,High,0,1,1
+664,37,Non-binary,Operations,UK,65,1,Low,High,4.0,0,Medium,1,2,0
+665,43,Non-binary,Finance,Australia,61,1,High,Low,8.0,1,High,0,2,1
+666,35,Female,Finance,Australia,61,1,Low,High,5.9,0,High,1,2,1
+667,57,Female,Finance,Canada,33,1,Medium,Low,5.9,1,Medium,0,1,1
+668,41,Prefer not to say,Operations,USA,47,1,Low,Low,9.2,0,High,0,2,1
+669,34,Non-binary,Customer Support,Germany,78,1,Medium,Low,9.0,1,Medium,0,3,1
+670,22,Male,Sales,India,48,1,Low,Low,5.0,1,Medium,1,1,1
+671,31,Female,Finance,India,72,0,High,High,4.4,0,High,0,2,1
+672,59,Non-binary,HR,India,64,0,High,Low,8.5,0,High,0,4,1
+673,58,Non-binary,Operations,Germany,69,1,High,Low,8.9,1,Medium,0,2,1
+674,54,Female,Finance,Australia,43,0,Low,Low,6.5,0,Low,1,1,1
+675,58,Prefer not to say,Customer Support,USA,62,0,High,Low,7.1,0,Medium,0,0,1
+676,54,Female,Sales,Germany,43,1,Medium,Low,4.7,1,High,0,2,1
+677,38,Female,Operations,India,63,0,Medium,Medium,8.2,0,Medium,1,2,1
+678,50,Male,Marketing,Canada,33,1,Medium,Low,7.1,1,High,1,2,1
+679,35,Male,Sales,UK,53,1,Low,High,6.3,1,High,0,2,1
+680,47,Prefer not to say,HR,Germany,58,1,Low,High,3.4,0,Medium,0,0,1
+681,54,Non-binary,Finance,Germany,48,1,High,Low,9.0,1,Low,0,3,1
+682,58,Female,Customer Support,USA,35,1,Low,High,7.0,1,Medium,0,1,0
+683,53,Prefer not to say,Marketing,USA,62,0,Medium,Low,4.3,0,Medium,1,3,1
+684,44,Male,Customer Support,Germany,78,1,Medium,Low,6.9,1,Medium,0,5,1
+685,35,Female,Marketing,India,69,0,High,Low,7.4,0,Medium,1,4,1
+686,50,Non-binary,Operations,UK,48,1,High,Medium,6.4,0,Medium,0,2,1
+687,37,Male,Marketing,USA,30,1,High,Medium,7.7,0,Medium,0,2,1
+688,25,Male,HR,India,34,1,Low,High,6.8,0,Medium,0,5,1
+689,49,Male,HR,Canada,56,0,Low,Medium,9.2,0,Medium,1,0,1
+690,24,Prefer not to say,IT,USA,45,1,Medium,High,3.3,1,Low,0,2,1
+691,30,Non-binary,HR,India,35,1,Low,Low,3.7,1,Medium,0,4,1
+692,37,Female,Sales,India,69,1,Low,High,4.1,1,Medium,0,6,1
+693,30,Prefer not to say,Marketing,UK,42,1,Medium,Low,7.5,1,Medium,1,0,1
+694,37,Prefer not to say,HR,UK,77,0,Medium,Low,7.2,1,Low,1,2,1
+695,40,Prefer not to say,Operations,Canada,64,1,High,Low,8.8,1,High,0,1,0
+696,44,Male,Customer Support,India,48,0,Low,Low,7.8,1,Medium,0,1,0
+697,25,Non-binary,Customer Support,Australia,41,1,Low,Medium,6.3,0,Medium,1,3,1
+698,54,Prefer not to say,IT,India,45,0,Low,High,9.4,1,High,1,3,1
+699,26,Female,Customer Support,UK,72,0,High,Low,4.7,0,Medium,0,4,1
+700,22,Non-binary,Marketing,Australia,39,1,High,High,8.4,0,Medium,0,2,1
+701,33,Female,IT,USA,54,1,High,Medium,5.8,1,High,0,4,1
+702,31,Non-binary,Marketing,USA,49,0,High,High,7.2,0,High,0,4,0
+703,43,Female,Operations,Germany,60,1,Medium,Low,7.7,0,High,1,4,1
+704,36,Male,IT,UK,33,1,Medium,Medium,7.1,1,High,0,3,0
+705,51,Prefer not to say,Finance,Germany,73,1,Medium,High,3.9,1,Low,0,3,1
+706,31,Female,Sales,Australia,52,0,Medium,Medium,5.9,1,Low,0,3,1
+707,36,Non-binary,Sales,UK,31,1,Medium,Medium,6.6,1,Medium,1,1,1
+708,28,Prefer not to say,Marketing,Canada,51,1,Medium,Low,8.5,0,Medium,0,1,0
+709,24,Prefer not to say,Customer Support,India,66,1,High,Low,5.9,0,Medium,0,3,0
+710,24,Non-binary,Finance,Canada,37,0,High,Medium,9.0,1,High,0,6,1
+711,45,Female,IT,Australia,36,1,High,High,5.9,0,Medium,0,0,1
+712,23,Male,Finance,UK,43,0,High,Low,6.6,1,Medium,0,2,0
+713,52,Male,Finance,Australia,32,1,Medium,Medium,8.2,0,High,1,2,1
+714,23,Female,Customer Support,India,79,0,Low,Medium,6.8,1,High,0,0,0
+715,47,Prefer not to say,IT,USA,45,1,Low,Medium,9.2,1,Medium,0,7,1
+716,49,Prefer not to say,Operations,USA,48,1,Medium,Medium,7.3,1,High,0,3,0
+717,52,Prefer not to say,Customer Support,Australia,47,0,High,High,6.4,1,High,0,4,1
+718,39,Prefer not to say,Finance,Germany,45,0,Low,Medium,3.2,1,Medium,0,6,1
+719,41,Female,Finance,UK,37,0,High,High,5.7,0,Low,0,2,0
+720,25,Prefer not to say,Operations,UK,62,1,Low,Low,4.9,0,Low,0,1,1
+721,38,Non-binary,Finance,USA,78,1,Low,Low,7.9,0,Medium,0,2,1
+722,48,Prefer not to say,Finance,Canada,41,1,Medium,Low,4.4,1,Medium,1,0,1
+723,42,Male,Finance,India,40,1,Low,Low,4.3,0,High,0,1,0
+724,41,Prefer not to say,Sales,Canada,34,0,Low,Low,4.2,1,High,0,1,1
+725,26,Female,Customer Support,Canada,56,1,Medium,Low,3.8,0,High,0,5,0
+726,21,Male,HR,Australia,41,1,High,High,5.0,1,High,1,2,1
+727,25,Female,Customer Support,USA,46,1,Medium,Low,8.8,1,High,0,2,1
+728,32,Female,Operations,USA,35,1,Medium,High,8.0,0,Medium,1,4,1
+729,46,Male,Finance,USA,62,1,Medium,Low,7.8,0,Low,0,1,1
+730,54,Female,Customer Support,Australia,34,1,Low,High,8.2,0,High,1,4,1
+731,34,Female,Sales,Germany,57,1,High,High,4.8,1,Medium,0,0,1
+732,46,Prefer not to say,Operations,Canada,43,0,Low,Low,8.8,1,Medium,0,5,0
+733,47,Non-binary,Marketing,Australia,34,1,High,High,3.9,0,Medium,0,0,0
+734,29,Female,Customer Support,UK,62,1,Medium,Medium,5.2,1,High,0,0,1
+735,46,Female,Marketing,India,79,1,High,High,6.8,0,Medium,1,2,1
+736,42,Female,Finance,Germany,77,1,Low,Medium,3.7,1,High,0,2,0
+737,50,Prefer not to say,Sales,UK,70,0,Medium,Medium,7.7,1,Medium,1,0,1
+738,37,Non-binary,Sales,Canada,48,0,Low,High,5.5,1,Medium,0,2,1
+739,46,Male,Customer Support,USA,51,0,Low,Medium,8.1,0,Low,0,5,1
+740,56,Prefer not to say,Operations,Canada,34,0,Medium,Low,6.2,1,High,0,2,0
+741,21,Prefer not to say,Operations,Australia,31,0,Low,High,4.2,1,Low,0,4,1
+742,28,Non-binary,Sales,India,59,0,Medium,Medium,7.8,0,High,1,1,0
+743,55,Non-binary,Operations,Australia,76,1,Low,Medium,4.6,0,Low,0,2,0
+744,35,Prefer not to say,Sales,Germany,68,0,Medium,Low,6.2,1,Medium,0,0,1
+745,42,Male,Customer Support,Germany,33,0,High,Medium,3.5,1,Medium,1,1,1
+746,34,Prefer not to say,HR,India,62,1,Medium,High,7.0,1,Medium,0,1,1
+747,46,Non-binary,Sales,UK,42,0,Medium,Low,7.3,1,Low,0,0,0
+748,48,Male,Marketing,UK,49,1,Medium,Medium,5.5,1,Medium,0,0,1
+749,43,Non-binary,Operations,Germany,36,1,High,Medium,9.2,0,High,0,3,0
+750,34,Male,Sales,Germany,44,0,Medium,High,8.7,0,Medium,0,2,1
+751,44,Female,Sales,USA,52,1,Medium,Medium,7.6,1,Low,0,1,1
+752,22,Non-binary,Customer Support,UK,43,0,High,Medium,7.6,1,High,0,4,1
+753,46,Non-binary,Operations,India,52,0,High,High,4.6,1,Low,1,2,1
+754,34,Prefer not to say,HR,UK,48,1,Medium,Medium,7.3,1,Medium,0,4,1
+755,27,Non-binary,Customer Support,USA,58,1,Medium,Low,4.3,1,Medium,1,1,1
+756,23,Non-binary,HR,Australia,49,0,High,Low,3.9,1,Medium,0,3,1
+757,43,Female,Customer Support,Germany,58,1,Medium,Medium,9.5,1,Medium,0,0,0
+758,38,Non-binary,Operations,Germany,53,1,Low,Low,7.0,1,High,0,2,1
+759,58,Female,IT,USA,47,0,Low,Low,5.8,0,Medium,0,3,1
+760,55,Female,Operations,India,39,0,High,High,4.9,1,Medium,0,0,0
+761,35,Female,Operations,Germany,70,1,Low,Low,6.9,0,Medium,1,4,1
+762,45,Female,HR,Canada,37,0,High,High,3.3,1,High,1,3,0
+763,57,Male,HR,Germany,55,0,Medium,Low,3.6,1,Medium,0,4,1
+764,48,Prefer not to say,Operations,Canada,58,0,Medium,High,3.2,1,High,0,0,1
+765,30,Male,Operations,USA,39,0,Low,High,6.2,1,High,0,0,1
+766,59,Non-binary,Operations,USA,46,0,Low,Low,6.9,0,High,0,3,0
+767,37,Male,HR,Germany,31,0,High,Medium,3.4,0,High,0,4,0
+768,59,Male,Operations,UK,35,0,High,Low,7.7,1,Low,1,1,0
+769,42,Non-binary,Operations,Canada,34,1,Medium,High,4.5,1,High,0,4,0
+770,46,Non-binary,Finance,India,57,0,Medium,High,7.5,0,Medium,1,2,1
+771,45,Non-binary,IT,Germany,70,1,Medium,Medium,9.4,1,High,0,1,1
+772,37,Male,Marketing,India,34,1,Medium,Medium,7.5,1,Medium,0,2,1
+773,33,Male,IT,Germany,47,1,Medium,Medium,8.7,1,High,0,1,1
+774,40,Non-binary,Finance,UK,55,0,Low,High,9.2,0,Medium,0,2,1
+775,45,Prefer not to say,Marketing,UK,49,0,Medium,Medium,6.2,1,Medium,0,3,1
+776,24,Prefer not to say,Customer Support,UK,70,1,High,Low,7.6,1,High,0,1,0
+777,30,Female,Operations,Australia,78,0,High,Medium,8.5,1,Low,1,2,1
+778,23,Non-binary,Finance,UK,56,1,Low,Low,5.3,1,Medium,1,4,1
+779,38,Female,Customer Support,USA,78,0,High,High,4.7,1,Medium,0,0,1
+780,56,Prefer not to say,Operations,USA,41,0,Medium,Low,9.2,1,High,1,4,1
+781,42,Female,HR,Australia,36,1,Medium,Medium,7.7,0,Low,0,2,1
+782,54,Non-binary,Sales,Canada,32,1,Low,Low,4.4,0,Low,1,0,0
+783,28,Non-binary,Finance,India,39,1,Medium,Low,5.9,0,Low,0,1,1
+784,39,Non-binary,HR,Germany,63,0,Medium,Medium,8.2,0,Low,0,1,0
+785,57,Male,Finance,Germany,54,1,Medium,High,6.6,1,High,0,1,1
+786,26,Female,Finance,Australia,64,0,High,High,7.2,1,High,0,3,1
+787,46,Prefer not to say,HR,USA,45,0,High,Low,7.9,1,Medium,0,1,1
+788,54,Prefer not to say,Marketing,Germany,31,0,Medium,Low,7.0,0,Medium,0,1,1
+789,26,Prefer not to say,IT,USA,53,1,High,High,6.5,1,High,0,4,1
+790,57,Male,Operations,Canada,39,1,Medium,Medium,7.9,0,Low,0,1,1
+791,53,Male,Finance,India,67,1,Low,Low,7.7,0,Medium,0,2,0
+792,42,Non-binary,Operations,Canada,51,0,Medium,High,7.1,0,Medium,0,2,1
+793,41,Prefer not to say,Sales,Australia,55,0,Low,High,5.3,1,Low,0,0,0
+794,26,Male,HR,UK,72,1,Medium,High,5.6,0,Medium,0,1,0
+795,26,Non-binary,Operations,UK,68,0,Low,High,9.3,1,Medium,1,3,0
+796,24,Prefer not to say,HR,UK,56,0,Low,High,3.7,0,Low,0,3,1
+797,50,Female,Operations,Canada,58,1,High,Low,4.7,1,Low,0,1,0
+798,31,Non-binary,IT,Germany,76,1,Low,Low,6.2,1,High,0,1,1
+799,50,Male,IT,India,67,1,Medium,Medium,8.4,1,Low,0,0,1
+800,51,Male,IT,UK,49,0,Low,Medium,4.1,1,High,0,0,1
+801,44,Non-binary,IT,Australia,56,0,Medium,Medium,4.8,1,Low,0,2,0
+802,29,Non-binary,IT,Australia,70,0,Medium,Medium,3.4,1,High,0,8,1
+803,23,Male,IT,UK,49,0,High,Medium,7.6,1,High,1,2,1
+804,51,Female,HR,UK,73,0,Medium,Medium,4.5,0,High,0,4,1
+805,57,Prefer not to say,Finance,India,48,1,Low,Low,5.5,0,High,1,2,1
+806,56,Female,Operations,UK,49,0,Medium,Low,5.9,0,Medium,0,2,1
+807,44,Non-binary,IT,India,64,0,Low,Medium,8.8,1,Medium,0,3,0
+808,51,Female,HR,Australia,76,0,Medium,High,5.7,1,Medium,0,3,1
+809,26,Male,HR,UK,31,1,Medium,Low,3.9,1,Low,0,2,0
+810,22,Non-binary,HR,Canada,59,1,High,Medium,6.4,1,Low,0,3,1
+811,40,Prefer not to say,Finance,Canada,63,1,Low,High,9.3,1,High,0,1,1
+812,48,Male,Operations,Australia,51,0,Medium,Medium,6.9,1,Medium,0,6,1
+813,31,Male,Finance,India,32,1,Low,Low,9.4,1,Medium,1,2,0
+814,24,Prefer not to say,Marketing,Canada,35,1,Medium,Medium,8.5,0,High,1,4,1
+815,35,Prefer not to say,Customer Support,India,44,1,Medium,Low,3.2,1,Medium,0,3,1
+816,26,Female,HR,Canada,56,0,High,High,7.3,0,Medium,1,1,0
+817,50,Non-binary,Marketing,Canada,39,1,Low,Low,4.9,1,High,0,1,1
+818,58,Prefer not to say,Sales,India,38,0,Low,Medium,6.6,0,Low,0,0,1
+819,22,Prefer not to say,IT,Germany,62,0,Medium,Low,4.8,1,Medium,0,0,1
+820,35,Non-binary,Customer Support,Canada,61,1,Low,Medium,5.3,1,High,0,3,0
+821,31,Prefer not to say,IT,UK,77,0,Low,Medium,9.0,0,High,0,2,0
+822,28,Prefer not to say,Finance,Australia,35,1,Medium,Low,4.3,0,High,1,4,0
+823,46,Female,Customer Support,Germany,70,0,Low,Medium,8.7,1,Medium,0,5,0
+824,25,Male,Operations,India,65,1,Low,Low,3.2,1,High,0,2,1
+825,26,Male,Marketing,Germany,31,1,High,Medium,3.6,1,Low,1,0,1
+826,46,Male,Operations,USA,58,1,Medium,Medium,8.6,1,Low,0,8,1
+827,24,Male,Finance,USA,33,0,Low,Medium,7.1,0,Medium,0,8,1
+828,39,Prefer not to say,IT,Canada,30,1,Low,High,7.9,1,Medium,0,4,0
+829,40,Non-binary,Customer Support,Canada,48,0,Medium,Medium,4.4,1,Medium,0,0,1
+830,53,Non-binary,Operations,UK,55,1,Low,Medium,6.5,1,Medium,0,2,1
+831,40,Female,Operations,Australia,54,0,Medium,Low,7.8,0,Low,0,1,1
+832,32,Female,IT,Germany,39,0,Low,Medium,7.1,1,Medium,0,0,0
+833,21,Prefer not to say,Customer Support,USA,44,1,Medium,High,6.1,1,High,1,1,1
+834,46,Non-binary,Marketing,Canada,51,1,Medium,Low,9.2,1,Medium,1,2,1
+835,34,Non-binary,IT,Australia,77,1,Medium,High,7.4,1,Low,0,2,1
+836,58,Male,Operations,Germany,50,1,High,Low,8.9,1,Medium,0,1,0
+837,57,Prefer not to say,Marketing,Canada,51,1,Medium,High,7.7,1,Medium,0,0,0
+838,31,Prefer not to say,Marketing,Canada,65,0,Low,Low,7.8,0,Medium,1,0,1
+839,56,Male,IT,USA,63,1,Low,High,3.5,1,Medium,0,4,1
+840,33,Prefer not to say,Operations,USA,59,1,Medium,Medium,5.3,1,Medium,0,1,0
+841,23,Prefer not to say,Finance,Canada,54,0,Low,Low,8.6,0,High,1,1,1
+842,53,Female,Operations,India,74,1,Low,Low,4.5,0,Low,1,2,1
+843,26,Non-binary,HR,Canada,57,1,High,Medium,3.8,1,Medium,0,1,1
+844,30,Prefer not to say,Customer Support,Australia,30,0,Medium,High,5.1,0,Medium,0,2,1
+845,25,Female,Sales,Canada,78,1,Medium,Low,4.4,1,Medium,0,1,1
+846,43,Non-binary,Finance,UK,74,1,Medium,Low,9.0,1,Low,0,2,1
+847,30,Male,Marketing,UK,33,1,Medium,Medium,8.6,0,Low,0,4,1
+848,22,Female,Finance,UK,36,0,Low,Medium,6.2,0,Medium,0,3,0
+849,33,Female,Customer Support,India,78,1,High,Medium,3.4,1,High,0,1,0
+850,22,Non-binary,Marketing,India,38,0,Low,Medium,7.6,1,High,0,2,1
+851,40,Male,Customer Support,Canada,65,1,High,Low,7.1,0,Medium,0,2,1
+852,21,Female,Marketing,UK,48,0,High,High,9.3,1,High,0,0,1
+853,57,Prefer not to say,Finance,India,30,1,High,Medium,6.6,1,Low,0,5,1
+854,29,Prefer not to say,Marketing,USA,39,0,Medium,Low,5.2,1,High,1,3,0
+855,37,Prefer not to say,Marketing,Canada,65,0,Low,High,6.4,1,Medium,0,3,1
+856,29,Male,HR,Australia,38,0,Medium,Medium,9.4,1,Medium,0,4,1
+857,31,Female,Operations,Germany,74,0,Medium,Medium,7.5,1,High,0,5,1
+858,35,Prefer not to say,Operations,Canada,75,0,Medium,Medium,7.4,0,High,0,1,0
+859,44,Male,Sales,Germany,71,0,High,Low,4.6,1,High,0,2,1
+860,58,Prefer not to say,Sales,UK,61,1,Medium,Medium,7.8,1,Low,1,2,1
+861,55,Non-binary,HR,Germany,61,1,Low,High,7.9,0,High,0,1,1
+862,50,Female,Sales,UK,35,0,Low,Low,5.1,1,High,1,4,1
+863,51,Female,Customer Support,USA,77,0,Medium,Medium,6.1,1,Medium,0,0,1
+864,25,Male,Finance,Germany,67,0,Medium,High,4.9,1,Low,0,5,1
+865,34,Male,IT,Canada,46,0,High,High,4.7,1,Low,1,0,1
+866,31,Female,Customer Support,UK,39,1,Medium,Medium,3.2,0,High,0,1,1
+867,29,Prefer not to say,IT,Canada,79,0,High,Medium,4.9,1,Medium,0,2,1
+868,54,Prefer not to say,IT,India,56,1,High,Medium,6.6,1,Medium,0,1,1
+869,32,Non-binary,HR,UK,79,1,High,High,3.0,0,Medium,0,0,0
+870,55,Prefer not to say,Customer Support,Germany,64,0,Low,High,4.8,1,Medium,1,0,0
+871,55,Male,HR,UK,50,0,High,Low,8.7,1,Medium,1,0,1
+872,21,Male,Marketing,Canada,54,1,Low,Medium,6.9,0,Medium,1,1,1
+873,42,Prefer not to say,IT,USA,57,1,Low,Medium,7.0,1,High,0,3,1
+874,49,Male,Finance,UK,76,0,Medium,High,5.6,0,Medium,0,5,0
+875,28,Female,Sales,Germany,44,0,Medium,Medium,7.4,0,High,0,1,0
+876,31,Female,Finance,India,33,0,Low,Medium,4.2,0,Medium,1,0,0
+877,57,Prefer not to say,Sales,Australia,58,1,Low,High,8.3,0,Low,0,0,1
+878,34,Female,IT,USA,38,1,Low,Low,3.8,1,Medium,0,3,1
+879,50,Female,IT,India,56,0,High,Low,7.3,0,Medium,1,3,1
+880,55,Non-binary,IT,UK,55,1,Low,Medium,5.2,1,Medium,0,3,0
+881,41,Non-binary,HR,Canada,48,1,Low,Medium,7.9,0,High,0,1,1
+882,57,Female,Customer Support,Canada,57,0,Medium,Low,6.6,1,Medium,1,0,1
+883,25,Prefer not to say,Sales,Germany,46,0,Medium,Low,5.9,1,Low,0,1,0
+884,39,Non-binary,Customer Support,Canada,72,1,High,Medium,4.1,1,Low,0,6,1
+885,34,Male,HR,USA,70,1,Low,High,7.1,0,Medium,0,2,0
+886,46,Male,HR,Canada,71,0,Medium,Medium,9.3,1,High,0,3,1
+887,24,Male,Operations,Germany,79,0,Medium,Medium,8.4,0,Medium,1,1,1
+888,45,Prefer not to say,Finance,Australia,49,0,High,Low,3.4,1,Medium,0,2,1
+889,45,Female,Finance,UK,74,0,Medium,High,5.4,1,Medium,0,0,0
+890,38,Male,Marketing,UK,69,0,High,High,9.0,1,Medium,0,5,1
+891,28,Prefer not to say,HR,Canada,68,1,Low,Medium,6.3,1,Medium,1,1,1
+892,59,Non-binary,Sales,India,78,1,Medium,Low,7.3,0,Low,0,3,0
+893,34,Female,Operations,UK,52,1,Medium,Low,8.9,1,Medium,0,2,1
+894,52,Non-binary,Operations,Australia,76,1,High,Low,8.7,1,Low,0,2,1
+895,58,Prefer not to say,Customer Support,Canada,61,0,Low,Medium,6.3,1,Low,0,1,1
+896,53,Male,Finance,Germany,76,0,Low,High,5.8,1,High,0,2,1
+897,43,Male,HR,Australia,62,0,Medium,High,5.2,0,Low,0,0,1
+898,35,Prefer not to say,Marketing,Canada,75,1,Low,Medium,7.7,0,High,0,2,1
+899,53,Male,HR,Australia,34,1,Low,High,4.9,1,High,0,1,1
+900,45,Female,Customer Support,UK,72,1,High,High,4.6,1,Medium,1,0,0
+901,37,Prefer not to say,IT,Germany,77,0,Medium,Low,5.3,1,Medium,0,6,0
+902,53,Non-binary,HR,Canada,63,1,Medium,Medium,4.2,1,Low,0,2,0
+903,22,Prefer not to say,Customer Support,USA,69,0,High,High,7.5,0,High,0,4,1
+904,34,Female,IT,Germany,40,0,Medium,Medium,7.0,1,Medium,1,0,1
+905,59,Female,IT,USA,79,0,Low,High,6.1,1,Medium,1,1,1
+906,26,Prefer not to say,Marketing,Australia,32,0,Low,High,5.5,1,Low,0,1,1
+907,26,Prefer not to say,Sales,India,62,0,Medium,Medium,8.9,1,High,1,2,1
+908,23,Male,Finance,Germany,40,0,Medium,High,3.2,0,Low,0,1,1
+909,27,Female,HR,Australia,45,1,Medium,High,8.0,0,Medium,0,1,0
+910,28,Prefer not to say,IT,USA,47,0,Low,Medium,8.9,1,Medium,0,1,1
+911,35,Prefer not to say,HR,UK,59,0,Medium,Medium,5.9,0,Low,1,2,1
+912,49,Female,Sales,UK,77,1,High,Low,6.6,0,Medium,0,3,1
+913,53,Prefer not to say,Finance,India,39,0,High,Medium,9.1,1,High,1,3,0
+914,50,Male,Sales,Germany,47,1,High,Medium,4.4,0,High,0,0,1
+915,59,Female,Finance,Germany,67,1,High,Low,6.4,1,High,0,7,1
+916,47,Male,Operations,Germany,48,1,Medium,Low,6.1,1,Medium,0,2,1
+917,56,Male,Finance,Australia,65,0,High,Low,4.7,1,Medium,1,2,1
+918,49,Male,Marketing,India,42,0,Low,High,8.3,1,Low,0,2,1
+919,58,Male,Sales,Germany,75,1,Medium,High,8.8,1,Medium,0,2,0
+920,53,Female,IT,Australia,32,0,Medium,High,8.1,1,Low,0,0,0
+921,57,Male,Operations,UK,39,0,Low,Medium,4.3,1,Medium,1,3,1
+922,47,Male,Marketing,USA,67,1,High,High,3.6,0,Medium,0,0,0
+923,53,Prefer not to say,HR,Australia,30,1,High,High,6.9,1,Medium,0,1,1
+924,24,Female,Sales,UK,56,0,Low,Medium,3.4,1,Medium,0,4,1
+925,42,Female,Customer Support,UK,75,1,High,Medium,7.4,1,High,1,2,1
+926,22,Non-binary,Customer Support,USA,37,1,Low,Low,6.4,0,Medium,1,3,0
+927,30,Female,IT,UK,75,1,Medium,High,7.3,1,High,1,3,1
+928,25,Female,Finance,India,71,0,Medium,Medium,6.8,0,High,0,3,1
+929,30,Non-binary,IT,USA,46,0,Medium,Medium,5.7,1,Medium,0,1,1
+930,53,Female,Customer Support,UK,38,0,High,Medium,4.3,1,Medium,1,1,1
+931,58,Female,HR,Canada,35,1,High,Medium,5.0,0,Low,0,2,1
+932,33,Female,Operations,Australia,72,0,High,Low,6.4,1,High,0,1,0
+933,51,Female,Operations,UK,54,1,Low,Medium,7.2,0,Medium,0,2,1
+934,56,Non-binary,Sales,India,68,0,High,Low,8.1,1,High,1,4,0
+935,44,Female,Operations,Germany,78,0,Low,High,8.0,0,Medium,0,5,1
+936,35,Female,Sales,UK,57,1,High,Medium,9.3,1,High,0,1,1
+937,49,Non-binary,Sales,Germany,62,0,Medium,Medium,4.9,0,High,1,3,1
+938,28,Prefer not to say,Sales,Canada,66,1,Low,Medium,3.5,0,Medium,0,1,1
+939,25,Male,Customer Support,UK,38,0,Medium,Medium,5.2,1,Medium,0,2,1
+940,49,Prefer not to say,Customer Support,USA,47,0,Low,Medium,7.8,0,Medium,1,4,1
+941,24,Non-binary,Finance,Germany,50,1,Low,Medium,5.8,1,Medium,1,2,1
+942,32,Male,Marketing,Canada,31,1,Medium,High,8.3,0,Medium,1,1,0
+943,22,Non-binary,Sales,USA,72,1,Low,High,6.6,1,High,0,3,0
+944,47,Non-binary,Sales,USA,67,0,Low,High,9.0,1,Medium,0,3,0
+945,51,Female,Marketing,USA,69,0,Low,Low,9.2,1,High,1,3,0
+946,56,Male,IT,USA,65,0,Medium,Medium,3.5,1,High,0,4,1
+947,56,Female,Sales,UK,79,1,Low,High,6.0,1,Medium,1,2,1
+948,46,Male,Finance,Australia,72,1,Medium,Medium,7.0,0,High,1,3,0
+949,47,Non-binary,Operations,UK,66,1,Low,Low,4.7,0,Medium,0,1,0
+950,25,Non-binary,Operations,UK,44,0,High,Medium,5.6,1,High,1,1,1
+951,40,Prefer not to say,HR,Canada,57,0,High,Low,7.4,1,Medium,1,1,1
+952,31,Male,HR,Canada,47,1,Low,Low,4.5,1,Medium,0,1,1
+953,30,Female,Operations,Australia,63,0,High,High,6.9,0,Medium,0,3,1
+954,58,Prefer not to say,Operations,Canada,51,1,High,Medium,7.5,0,Medium,0,4,1
+955,26,Prefer not to say,Customer Support,India,40,0,High,Low,3.6,0,Medium,0,2,1
+956,28,Prefer not to say,Finance,Australia,42,0,Medium,High,6.2,1,Medium,0,2,1
+957,43,Female,Marketing,Canada,33,1,Low,High,4.7,1,Medium,0,4,0
+958,46,Prefer not to say,HR,Australia,51,0,Medium,Medium,7.7,0,High,1,2,1
+959,32,Female,Customer Support,UK,36,0,Medium,Low,4.2,1,Medium,1,2,0
+960,46,Prefer not to say,Customer Support,UK,72,1,Medium,High,8.8,1,Medium,0,2,1
+961,33,Female,Marketing,Australia,53,1,Medium,High,5.8,1,Medium,0,1,1
+962,38,Non-binary,Customer Support,India,33,0,High,Medium,4.3,0,High,0,5,1
+963,45,Non-binary,Finance,India,57,1,High,High,5.8,1,High,1,5,0
+964,53,Non-binary,Operations,Australia,44,0,Low,Medium,5.7,1,Medium,0,0,1
+965,32,Non-binary,Sales,Canada,30,1,Low,Low,5.8,1,Low,0,0,1
+966,56,Non-binary,Marketing,Germany,32,0,Low,Medium,6.8,1,Medium,1,2,0
+967,24,Prefer not to say,Operations,India,43,0,High,Medium,6.4,0,Medium,0,1,1
+968,25,Prefer not to say,Operations,USA,67,1,Medium,High,4.0,0,High,1,2,0
+969,57,Prefer not to say,IT,UK,79,0,Medium,Medium,3.4,1,Medium,1,1,1
+970,28,Female,Marketing,Australia,30,0,Medium,Low,7.7,0,High,1,3,1
+971,48,Female,Customer Support,USA,67,1,Medium,Medium,6.6,1,Medium,0,2,1
+972,51,Female,Sales,Australia,67,1,Medium,Medium,5.3,1,High,0,0,1
+973,29,Female,Marketing,UK,50,0,Medium,Medium,8.3,1,Low,1,2,1
+974,49,Non-binary,Customer Support,UK,77,1,High,Medium,5.5,0,High,0,2,1
+975,34,Non-binary,Operations,India,58,1,High,Medium,8.2,0,High,0,0,1
+976,42,Non-binary,Sales,India,34,0,High,High,5.0,1,High,0,0,1
+977,31,Male,Customer Support,USA,78,0,High,Low,3.5,0,Low,0,0,1
+978,43,Prefer not to say,Finance,Australia,39,1,Medium,Medium,9.1,1,Low,0,5,1
+979,21,Female,Customer Support,UK,57,1,Medium,High,5.6,1,Medium,0,3,1
+980,57,Female,IT,USA,50,1,High,Medium,8.2,1,Low,0,2,1
+981,41,Non-binary,Operations,Germany,79,0,High,Medium,4.8,1,Low,0,2,1
+982,46,Female,Customer Support,USA,36,0,Low,High,7.2,0,Medium,0,1,0
+983,56,Female,HR,Canada,32,0,Medium,Low,8.7,0,Medium,0,3,1
+984,43,Prefer not to say,HR,USA,74,0,Low,Low,3.3,1,Medium,0,1,1
+985,21,Non-binary,IT,Canada,76,0,Medium,Medium,8.4,1,Low,0,2,1
+986,35,Prefer not to say,Finance,Canada,49,0,Medium,Low,6.7,1,Low,0,0,1
+987,41,Male,Operations,Canada,48,0,Medium,High,6.9,1,Medium,0,2,0
+988,29,Male,Marketing,Germany,64,1,Low,Low,6.4,1,Medium,0,4,1
+989,29,Male,IT,USA,33,1,Medium,High,8.7,0,Low,0,3,1
+990,30,Non-binary,Finance,USA,34,0,High,High,3.3,0,Medium,0,1,1
+991,46,Female,Marketing,Germany,30,0,Low,Low,4.7,1,High,0,1,1
+992,55,Non-binary,HR,UK,33,0,Medium,Medium,8.7,0,High,1,1,0
+993,45,Non-binary,HR,India,41,1,Medium,Low,7.9,1,High,0,1,1
+994,46,Female,Marketing,USA,56,0,High,Medium,3.1,1,High,1,1,1
+995,31,Prefer not to say,IT,India,71,1,Low,Low,6.4,1,Medium,0,2,1
+996,58,Male,HR,Australia,52,1,High,High,6.4,1,Medium,1,1,0
+997,22,Prefer not to say,Operations,Australia,54,1,Medium,High,5.6,0,Medium,0,2,1
+998,27,Male,Sales,Germany,50,1,High,Low,4.9,0,Medium,0,2,0
+999,38,Non-binary,Customer Support,Australia,53,1,High,Low,7.4,1,Medium,0,2,1
+1000,47,Male,Marketing,Australia,54,0,Low,High,4.4,1,Medium,0,1,1
