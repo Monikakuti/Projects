@@ -3,6 +3,7 @@ Welcome! This repository contains my collection of hands-on Data Analytics proje
 Each project focuses on solving a unique problem using tools like SQL, Python, and Power BI.
 
 🚀 Projects Included
+
 Binge Time Calculator
 Analyze how users consume content and visualize binge-watching habits.
 
