@@ -35,6 +35,6 @@ It showcases how to use **SQL, Python, and Power BI** to transform raw incident 
 ## 🙌 Acknowledgement
 
 Used **ChatGPT** as an AI assistant for planning, prompting, and speeding up development.  
-It helped structure the dataset, troubleshoot Python logic, and suggest dashboard layout ideas.
+It helped structure the dataset and troubleshoot Python logic.
 
 ---
